@@ -47,7 +47,11 @@ sae16 -[hidden]> sae15
 @enduml
 ----
 
+.Graphe complet
 image::butgraph.svg[]
+
+.Extrait pour la SAÉ 1.1
+image::sae11.svg[]
 
 == Outils
 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="380px" preserveAspectRatio="none" style="width:1235px;height:380px;" version="1.1" viewBox="0 0 1235 380" width="1235px" zoomAndPan="magnify"><defs><filter height="300%" id="f1tk9956bd0bdk" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="83" x="569.75" y="17.4023">Info v.0.1</text><!--MD5=[22b6c8bdebd903908b2d1ae7b63eb918]
+cluster Competence1--><polygon fill="#FFFFFF" filter="url(#f1tk9956bd0bdk)" points="245.5,168.1992,348.5,168.1992,355.5,190.6875,1218.5,190.6875,1218.5,373.1992,245.5,373.1992,245.5,168.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="245.5" x2="355.5" y1="190.6875" y2="190.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="249.5" y="183.7344">Competence1</text><!--MD5=[cce066aeae75ce0784a26e22d5c5ebcf]
+entity APC11--><rect fill="#90EE90" filter="url(#f1tk9956bd0bdk)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="336" x="386.5" y="211.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="316" x="396.5" y="234.7344">APC11 : Implementer des conceptions simples</text><!--MD5=[e09bf9d744c3da06c97987ea37cd852e]
+entity APC12--><rect fill="#90EE90" filter="url(#f1tk9956bd0bdk)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="307" x="758" y="211.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="287" x="768" y="234.7344">APC12 : Elaborer des conceptions simples</text><!--MD5=[9d863ac485bae409498cc6eeb3449d20]
+entity APC13--><rect fill="#90EE90" filter="url(#f1tk9956bd0bdk)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="553" x="278" y="313.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="533" x="288" y="336.7344">APC13 : Faire des essais et evaluer leurs resultats en regard des specifications</text><!--MD5=[5d6a7ccc98fa87cc1fb8b795c59db011]
+entity APC14--><rect fill="#90EE90" filter="url(#f1tk9956bd0bdk)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="328" x="866.5" y="313.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="308" x="876.5" y="336.7344">APC14 : Developper des interfaces utilisateur</text><!--MD5=[7aa2c26c818a2be7a29f83fe9fc7ff3d]
+entity iap--><rect fill="#FFFFE0" filter="url(#f1tk9956bd0bdk)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="73" x="7" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="17" y="51.7344">DEV 1.1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="22" x="32.5" y="68.2227">IAP</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="20.5" y="84.7109">48(24)</text><!--MD5=[6e4a4ff86aab5b0759459799fd216d7d]
+entity sda--><rect fill="#FFFFE0" filter="url(#f1tk9956bd0bdk)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="73" x="136" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="146" y="51.7344">DEV 1.2</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="158.5" y="68.2227">SDA</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="149.5" y="84.7109">54(30)</text><!--MD5=[06130013b90dde5ffa9f780fe77e428a]
+entity cdin--><rect fill="#FFFFE0" filter="url(#f1tk9956bd0bdk)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="73" x="244" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="254" y="51.7344">DEV 1.3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="263.5" y="68.2227">CDIN</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="257.5" y="84.7109">23(18)</text><!--MD5=[5505fae473b37b001fdb3d002aa5bc30]
+entity sae11--><polygon fill="#87CEEB" filter="url(#f1tk9956bd0bdk)" points="126.5,216.1992,136.5,206.1992,218.5,206.1992,218.5,242.6875,208.5,252.6875,126.5,252.6875,126.5,216.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="208.5" x2="218.5" y1="216.1992" y2="206.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="126.5" x2="208.5" y1="216.1992" y2="216.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="208.5" x2="208.5" y1="216.1992" y2="252.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="141.5" y="239.7344">SAE 1.1</text><!--MD5=[387578720777bc3dbce3a87f10e8ad01]
+link sae11 to Competence1--><path d="M218.7,229.1992 C224.41,229.1992 230.12,229.1992 235.83,229.1992 C238.685,229.1992 241.54,229.1992 244.395,229.1992 C244.7519,229.1992 245.1088,229.1992 245.4656,229.1992 " fill="none" id="sae11-to-Competence1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="245.4656,229.1992,236.4656,225.1992,240.4656,229.1992,236.4656,233.1992,245.4656,229.1992" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0a57a3f2f6229d9c1bdb93f65002180a]
+link cdin to sae11--><path d="M258.38,97.3892 C238.12,128.2592 208.51,173.3492 189.89,201.7192 " fill="none" id="cdin-to-sae11" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="187,206.1192,195.2869,200.7968,189.747,201.9414,188.6024,196.4016,187,206.1192" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[bbc1edd103d6b33896417c4364bcea3f]
+link iap to sae11--><path d="M44.24,97.4492 C45.91,112.6992 49.82,130.3492 58.5,144.1992 C74.24,169.2992 100.42,189.3792 123.72,203.6092 " fill="none" id="iap-to-sae11" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="128.04,206.1992,122.3805,198.1388,123.7525,203.6267,118.2646,204.9987,128.04,206.1992" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="104" x="59.5" y="140.7676">APC1/3 2.0 (1.0)</text><!--MD5=[8ad39aa31352d48908dced0a865c9ef7]
+link sda to sae11--><path d="M172.5,97.3892 C172.5,127.9992 172.5,172.6092 172.5,201.0092 " fill="none" id="sda-to-sae11" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="172.5,206.1192,176.5,197.1192,172.5,201.1192,168.5,197.1192,172.5,206.1192" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[5bad9b0ba8f776aedcb578335d66ba17]
+link APC11 to APC12--><!--MD5=[ef4ab28d328aeb49d4e55cea6e4dd31e]
+link APC11 to APC13--><!--MD5=[0e88beb96b2cc3db58efacb5be739b12]
+link APC13 to APC14--><!--MD5=[cc48027c6ec58726a7997fc5e3bd51ff]
+@startuml butgraph
+
+!include config.plantuml
+package Competence1 {
+rectangle "APC11 : Implementer des conceptions simples" as APC11 
+rectangle "APC12 : Elaborer des conceptions simples" as APC12
+rectangle "APC13 : Faire des essais et evaluer leurs resultats en regard des specifications" as APC13
+rectangle "APC14 : Developper des interfaces utilisateur" as APC14
+}
+!include ressources.plantuml
+node "SAE 1.1" as sae11 
+
+'- - - - - - - - - - - SAÉs
+sae11 -> Competence1
+'sae12 - -> Competence2
+'sae15 - -> Competence5
+
+'- - - - - - - - - - - Graphe
+title Info v.0.1
+
+'cdin - -> sae16
+'cdin - -> sae15
+cdin - -> sae11
+iap - -> sae11 : APC1/3 2.0 (1.0)
+'iap - -> sae12
+sda - -> sae11 
+'sda - -> sae12
+'iap - -> sda
+
+' Astuce cachée pour mettre la 16 à gauche de la 15
+'sae16 -[hidden]> sae15
+@enduml
+
+@startuml butgraph
+
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor Lightyellow
+}
+
+skinparam node {
+  BackgroundColor Skyblue
+}
+
+skinparam rectangle {
+  BackgroundColor Lightgreen
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<apc>> Black
+}
+
+
+package Competence1 {
+rectangle "APC11 : Implementer des conceptions simples" as APC11 
+rectangle "APC12 : Elaborer des conceptions simples" as APC12
+rectangle "APC13 : Faire des essais et evaluer leurs resultats en regard des specifications" as APC13
+rectangle "APC14 : Developper des interfaces utilisateur" as APC14
+}
+storage "DEV 1.1\nIAP\n48(24)" as iap
+storage "DEV 1.2\nSDA\n54(30)" as sda
+storage "DEV 1.3\nCDIN\n23(18)" as cdin
+node "SAE 1.1" as sae11 
+
+sae11 -> Competence1
+
+title Info v.0.1
+
+cdin - -> sae11
+iap - -> sae11 : APC1/3 2.0 (1.0)
+sda - -> sae11 
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 11:25:05 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>
