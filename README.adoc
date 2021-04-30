@@ -71,3 +71,11 @@ image::vs.png[width=50%]
 
 [source]
 java -jar plantuml.jar butgraph.plantuml
+
+[appendix]
+== Vocabulaire BUT
+
+Le vocabulaire du BUT étant nouveau, nous avons réalisé un diagramme de classe des différents concepts.
+
+.Les concepts du BUT (source {repo}/vocabulaireBUT.plantuml[ici])
+image::vocabulaireBUT.svg[width=80%]

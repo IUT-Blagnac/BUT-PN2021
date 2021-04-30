@@ -5,4 +5,4 @@
 
 %.svg: %.plantuml
 	@echo '==> Compiling plantUML files to generate SVG'
-	java -jar plantuml.jar -t SVG $<
+	java -jar plantuml.jar -tSVG $<
