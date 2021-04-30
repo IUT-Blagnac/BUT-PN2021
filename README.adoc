@@ -70,4 +70,4 @@ image::vs.png[width=50%]
 === Génération des `.svg` ou `.png` ou autre
 
 [source]
-java -jar plantuml.jat butgraph.plantuml
+java -jar plantuml.jar butgraph.plantuml
