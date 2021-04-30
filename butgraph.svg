@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="614px" preserveAspectRatio="none" style="width:2814px;height:614px;" version="1.1" viewBox="0 0 2814 614" width="2814px" zoomAndPan="magnify"><defs><filter height="300%" id="f16zdotdm3cydv" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="83" x="1359" y="17.4023">Info v.0.1</text><!--MD5=[22b6c8bdebd903908b2d1ae7b63eb918]
+cluster Competence1--><polygon fill="#FFFFFF" filter="url(#f16zdotdm3cydv)" points="984,389.1992,1087,389.1992,1094,411.6875,1957,411.6875,1957,607.1992,984,607.1992,984,389.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="984" x2="1094" y1="411.6875" y2="411.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="988" y="404.7344">Competence1</text><!--MD5=[2810f23fea584d1112d24aceec518dc0]
+cluster Competence2--><polygon fill="#FFFFFF" filter="url(#f16zdotdm3cydv)" points="1997,389.1992,2100,389.1992,2107,411.6875,2797,411.6875,2797,607.1992,1997,607.1992,1997,389.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1997" x2="2107" y1="411.6875" y2="411.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="2001" y="404.7344">Competence2</text><!--MD5=[f82e1186341825d5f21d0caf887e2dc7]
+cluster Competence5--><polygon fill="#FFFFFF" filter="url(#f16zdotdm3cydv)" points="16,389.1992,119,389.1992,126,411.6875,944,411.6875,944,492.1992,16,492.1992,16,389.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="126" y1="411.6875" y2="411.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="20" y="404.7344">Competence5</text><!--MD5=[cce066aeae75ce0784a26e22d5c5ebcf]
+entity APC11--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="336" x="1125" y="432.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="316" x="1135" y="455.7344">APC11 : Implementer des conceptions simples</text><!--MD5=[e09bf9d744c3da06c97987ea37cd852e]
+entity APC12--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="307" x="1496.5" y="432.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="287" x="1506.5" y="455.7344">APC12 : Elaborer des conceptions simples</text><!--MD5=[9d863ac485bae409498cc6eeb3449d20]
+entity APC13--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="553" x="1016.5" y="547.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="533" x="1026.5" y="570.7344">APC13 : Faire des essais et evaluer leurs resultats en regard des specifications</text><!--MD5=[5d6a7ccc98fa87cc1fb8b795c59db011]
+entity APC14--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="328" x="1605" y="547.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="308" x="1615" y="570.7344">APC14 : Developper des interfaces utilisateur</text><!--MD5=[640e1d034c142dd7d201ef0c3def55cf]
+entity APC21--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="328" x="2040" y="432.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="308" x="2050" y="455.7344">APC21 : Analyser un problème avec méthode</text><!--MD5=[0561a1140353d6cd23c5b608807d03d1]
+entity APC22--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="370" x="2403" y="432.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="350" x="2413" y="455.7344">APC22 : Comparer des algo pour des pb classiques</text><!--MD5=[fd1ddfa4f7b8d99222f4fd88c3dbe224]
+entity APC23--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="379" x="2040.5" y="547.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="359" x="2050.5" y="570.7344">APC23 : Experimentaion de la notion de compilation</text><!--MD5=[8e353857561bdab015fae5ba49b22d49]
+entity APC51--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="430" x="490" y="432.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="410" x="500" y="455.7344">APC51 : Apprehender les besoins du client et de l'utilisateur</text><!--MD5=[d7fd8310ad75b96a26b5f43b0ac1c73b]
+entity APC52--><rect fill="#90EE90" filter="url(#f16zdotdm3cydv)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="395" x="59.5" y="432.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="375" x="69.5" y="455.7344">APC52 : Mettre en place des outils de gestion de projet</text><!--MD5=[7aa2c26c818a2be7a29f83fe9fc7ff3d]
+entity iap--><rect fill="#FFFFE0" filter="url(#f16zdotdm3cydv)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="73" x="1133.5" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="1143.5" y="51.7344">DEV 1.1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="22" x="1159" y="68.2227">IAP</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="1147" y="84.7109">48(24)</text><!--MD5=[6e4a4ff86aab5b0759459799fd216d7d]
+entity sda--><rect fill="#FFFFE0" filter="url(#f16zdotdm3cydv)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="73" x="1133.5" y="158.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="1143.5" y="181.7344">DEV 1.2</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="1156" y="198.2227">SDA</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="1147" y="214.7109">54(30)</text><!--MD5=[06130013b90dde5ffa9f780fe77e428a]
+entity cdin--><rect fill="#FFFFE0" filter="url(#f16zdotdm3cydv)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="73" x="408.5" y="158.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="418.5" y="181.7344">DEV 1.3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="428" y="198.2227">CDIN</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="422" y="214.7109">23(18)</text><!--MD5=[5505fae473b37b001fdb3d002aa5bc30]
+entity sae11--><polygon fill="#87CEEB" filter="url(#f16zdotdm3cydv)" points="946,298.1992,956,288.1992,1038,288.1992,1038,324.6875,1028,334.6875,946,334.6875,946,298.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1028" x2="1038" y1="298.1992" y2="288.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="946" x2="1028" y1="298.1992" y2="298.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1028" x2="1028" y1="298.1992" y2="334.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="961" y="321.7344">SAE 1.1</text><!--MD5=[f8350f3e21562befa4ae41ef93cbabd6]
+entity sae12--><polygon fill="#87CEEB" filter="url(#f16zdotdm3cydv)" points="1214,298.1992,1224,288.1992,1306,288.1992,1306,324.6875,1296,334.6875,1214,334.6875,1214,298.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1296" x2="1306" y1="298.1992" y2="288.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1214" x2="1296" y1="298.1992" y2="298.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1296" x2="1296" y1="298.1992" y2="334.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="1229" y="321.7344">SAE 1.2</text><!--MD5=[cbc102692a25a9d75da07bd812b0c4e3]
+entity sae15--><polygon fill="#87CEEB" filter="url(#f16zdotdm3cydv)" points="399,298.1992,409,288.1992,491,288.1992,491,324.6875,481,334.6875,399,334.6875,399,298.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="481" x2="491" y1="298.1992" y2="288.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="399" x2="481" y1="298.1992" y2="298.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="481" x2="481" y1="298.1992" y2="334.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="414" y="321.7344">SAE 1.5</text><!--MD5=[94ac2d62d2a83b25c4bf0a4c59f99025]
+entity sae16--><polygon fill="#87CEEB" filter="url(#f16zdotdm3cydv)" points="272,298.1992,282,288.1992,364,288.1992,364,324.6875,354,334.6875,272,334.6875,272,298.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="354" x2="364" y1="298.1992" y2="288.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="272" x2="354" y1="298.1992" y2="298.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="354" x2="354" y1="298.1992" y2="334.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="287" y="321.7344">SAE 1.6</text><!--MD5=[387578720777bc3dbce3a87f10e8ad01]
+link sae11 to Competence1--><path d="M992,334.2092 C992,343.7392 992,355.543 992,367.9241 C992,374.1146 992,380.4495 992,386.7167 C992,387.5001 992,388.2824 992,389.0633 " fill="none" id="sae11-to-Competence1" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="992,389.0633,996,380.0633,992,384.0633,988,380.0633,992,389.0633" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[292e20792a19ae12bf9bff6aac062252]
+link sae12 to Competence2--><path d="M1306.04,314.0892 C1451.23,320.3492 1893.12,341.7992 1949,373.1992 C1966.715,383.1542 1980.4075,401.2967 1989.8175,417.3592 C1992.17,421.3748 1994.2548,425.2605 1996.068,428.8557 C1996.2946,429.3051 1996.517,429.7499 1996.7351,430.1899 C1996.7897,430.2999 1996.844,430.4096 1996.898,430.519 " fill="none" id="sae12-to-Competence2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1996.898,430.519,1996.5007,420.6782,1994.6846,426.0356,1989.3272,424.2195,1996.898,430.519" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b85ccfe9b7ff06d98a955d7996bce1fe]
+link sae15 to Competence5--><path d="M398.89,329.5992 C393.26,331.3392 387.53,332.9292 382,334.1992 C308.09,351.1392 100,323.1892 43,373.1992 C39.8313,375.9805 37.1513,379.2025 34.8881,382.7178 C33.7565,384.4754 32.7292,386.3064 31.797,388.1922 C31.6805,388.428 31.5655,388.6646 31.4519,388.902 " fill="none" id="sae15-to-Competence5" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="31.4519,388.902,38.9439,382.509,33.6094,384.3914,31.727,379.0569,31.4519,388.902" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[eb200e5a805b6dfea425e7b82807cbcf]
+link cdin to sae16--><path d="M408.27,227.3992 C388.52,245.5092 364.54,267.5092 346.26,284.2792 " fill="none" id="cdin-to-sae16" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="342.21,287.9892,351.544,284.8465,345.8922,284.6067,346.132,278.9549,342.21,287.9892" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3209b81cd2f2b12ce8c8d09deb057eeb]
+link cdin to sae15--><path d="M445,227.3992 C445,244.9092 445,266.0392 445,282.5692 " fill="none" id="cdin-to-sae15" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="445,287.9892,449,278.9892,445,282.9892,441,278.9892,445,287.9892" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0a57a3f2f6229d9c1bdb93f65002180a]
+link cdin to sae11--><path d="M481.74,201.5192 C576.88,221.7892 831.49,276.0192 940.89,299.3092 " fill="none" id="cdin-to-sae11" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="945.99,300.3992,938.0233,294.6086,941.1002,299.3555,936.3533,302.4324,945.99,300.3992" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[bbc1edd103d6b33896417c4364bcea3f]
+link iap to sae11--><path d="M1133.36,74.6092 C1095.73,87.8792 1038.71,114.1392 1010,158.1992 C985.35,196.0292 985.49,250.5992 988.37,283.0292 " fill="none" id="iap-to-sae11" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="988.86,288.0292,991.9685,278.6838,988.3752,283.0528,984.0062,279.4595,988.86,288.0292" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="104" x="1011" y="197.7676">APC1/3 2.0 (1.0)</text><!--MD5=[6c6effc70b5aa9bfdced28220cd156f6]
+link iap to sae12--><path d="M1192.48,97.5192 C1203.29,115.0292 1215.68,137.1092 1224,158.1992 C1240.56,200.1692 1250.8,251.7892 1255.94,282.7892 " fill="none" id="iap-to-sae12" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1256.78,287.9492,1259.2907,278.4257,1255.9811,283.0134,1251.3934,279.7039,1256.78,287.9492" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8ad39aa31352d48908dced0a865c9ef7]
+link sda to sae11--><path d="M1133.12,217.8392 C1103.03,237.5292 1060.67,265.2492 1030.23,285.1792 " fill="none" id="sda-to-sae11" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1025.82,288.0592,1035.5401,286.472,1030.0021,285.3187,1031.1554,279.7807,1025.82,288.0592" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e00638fe3f4b28481d31a887b7d80f90]
+link sda to sae12--><path d="M1196.03,227.3992 C1209.91,245.3592 1226.74,267.1392 1239.65,283.8592 " fill="none" id="sda-to-sae12" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1242.84,287.9892,1240.5031,278.4216,1239.7832,284.0325,1234.1723,283.3126,1242.84,287.9892" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[9b619619f035aaeb52c2f65c31016a67]
+link iap to sda--><path d="M1170,97.3292 C1170,114.2492 1170,134.8492 1170,152.4792 " fill="none" id="iap-to-sda" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="1170,157.8492,1174,148.8492,1170,152.8492,1166,148.8492,1170,157.8492" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b27ca30f321e22ab62df08ea9d4058d0]
+link sae16 to sae15--><!--MD5=[5bad9b0ba8f776aedcb578335d66ba17]
+link APC11 to APC12--><!--MD5=[ef4ab28d328aeb49d4e55cea6e4dd31e]
+link APC11 to APC13--><!--MD5=[0e88beb96b2cc3db58efacb5be739b12]
+link APC13 to APC14--><!--MD5=[fb922ff11f7405e019bcfd40ebcb701f]
+link APC21 to APC22--><!--MD5=[baed59f6ecbaed07bf9ddeafed1a5ab6]
+link APC21 to APC23--><!--MD5=[ede7fb2f3600753615e0c0394edb991a]
+@startuml butgraph
+
+!include config.plantuml
+!include competences.plantuml
+!include ressources.plantuml
+!include sae.plantuml
+
+'- - - - - - - - - - - SAÉs
+sae11 - -> Competence1
+sae12 - -> Competence2
+sae15 - -> Competence5
+
+'- - - - - - - - - - - Graphe
+title Info v.0.1
+
+cdin - -> sae16
+cdin - -> sae15
+cdin - -> sae11
+iap - -> sae11 : APC1/3 2.0 (1.0)
+iap - -> sae12
+sda - -> sae11 
+sda - -> sae12
+iap - -> sda
+
+' Astuce cachée pour mettre la 16 à gauche de la 15
+sae16 -[hidden]> sae15
+@enduml
+
+@startuml butgraph
+
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor Lightyellow
+}
+
+skinparam node {
+  BackgroundColor Skyblue
+}
+
+skinparam rectangle {
+  BackgroundColor Lightgreen
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<apc>> Black
+}
+
+
+
+package Competence1 {
+rectangle "APC11 : Implementer des conceptions simples" as APC11 
+rectangle "APC12 : Elaborer des conceptions simples" as APC12
+rectangle "APC13 : Faire des essais et evaluer leurs resultats en regard des specifications" as APC13
+rectangle "APC14 : Developper des interfaces utilisateur" as APC14
+}
+
+package Competence2 {
+rectangle "APC21 : Analyser un problème avec méthode" as APC21 
+rectangle "APC22 : Comparer des algo pour des pb classiques" as APC22
+rectangle "APC23 : Experimentaion de la notion de compilation" as APC23
+}
+
+package Competence5 {
+rectangle "APC51 : Apprehender les besoins du client et de l'utilisateur" as APC51 
+rectangle "APC52 : Mettre en place des outils de gestion de projet" as APC52
+}
+storage "DEV 1.1\nIAP\n48(24)" as iap
+storage "DEV 1.2\nSDA\n54(30)" as sda
+storage "DEV 1.3\nCDIN\n23(18)" as cdin
+
+node "SAE 1.1" as sae11 
+node "SAE 1.2" as sae12 
+node "SAE 1.5" as sae15 
+node "SAE 1.6" as sae16 
+
+sae11 - -> Competence1
+sae12 - -> Competence2
+sae15 - -> Competence5
+
+title Info v.0.1
+
+cdin - -> sae16
+cdin - -> sae15
+cdin - -> sae11
+iap - -> sae11 : APC1/3 2.0 (1.0)
+iap - -> sae12
+sda - -> sae11 
+sda - -> sae12
+iap - -> sda
+
+sae16 -[hidden]> sae15
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 11:25:05 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>
