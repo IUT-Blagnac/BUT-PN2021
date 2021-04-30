@@ -1,0 +1,35 @@
+'------------------------------------
+' Macros & definitions
+'-----------------------------------
+'Colors => see http://plantuml.com/color
+'skinparam monochrome true
+'skinparam monochrome reverse
+'skinparam handwritten true
+!define BLUE Skyblue
+!define YELLOW Lightyellow
+!define GREEN Lightgreen
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor YELLOW
+}
+
+skinparam node {
+  BackgroundColor BLUE
+}
+
+skinparam rectangle {
+  BackgroundColor GREEN
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<apc>> Black
+}
+
+
+' Usefull functions
+'-----------------------------------
+!define ressource(id,label) storage label <<Ressource>> as id
+!define sae(id,label) node label <<SAÉ>> as id

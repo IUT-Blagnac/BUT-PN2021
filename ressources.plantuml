@@ -1,0 +1,4 @@
+'----------- Ressources
+storage "DEV 1.1\nIAP\n48(24)" as iap
+storage "DEV 1.2\nSDA\n54(30)" as sda
+storage "DEV 1.3\nCDIN\n23(18)" as cdin

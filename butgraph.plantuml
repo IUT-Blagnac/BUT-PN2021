@@ -1,0 +1,29 @@
+@startuml butgraph
+
+!include config.plantuml
+
+!include competences.plantuml
+
+!include ressources.plantuml
+
+!include sae.plantuml
+
+'----------- SAÉs
+sae11 --> Competence1
+sae12 --> Competence2
+sae15 --> Competence5
+
+'----------- Graphe
+title Info v.0.1
+
+cdin --> sae16
+cdin --> sae15
+cdin --> sae11
+iap --> sae11 : APC1/3 2.0 (1.0)
+iap --> sae12
+sda --> sae11 
+sda --> sae12
+iap --> sda
+
+sae16 -[hidden]> sae15
+@enduml
