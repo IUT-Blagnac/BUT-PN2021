@@ -1,0 +1,31 @@
+@startuml
+
+'-----------------------------------
+' UML concepts illustrated
+' JMB 2014
+'-----------------------------------
+
+!include config.plantuml
+
+class r as "Ressource"
+class s as "Savoir De\nRéférences"
+class sae as "SAÉ"
+class ens as "Enseignements"
+class note as "Note"
+class etu as "Etudiant"
+class pf as "Portfolio"
+
+
+r *--> "*" ens
+ens --> "*" note : "Met"
+ens --> "*" s : "Enseigne"
+ens --> "*" sae : "Participe"
+pf --> note : "Amène à"
+
+etu --> "*" ens : "Suit"
+etu --> "*" sae : "Travaille sur"
+etu --> pf : "Complète"
+
+'Initial -[hidden]- Alternance
+
+@enduml

@@ -1,6 +1,13 @@
 '------------------------------------
 ' Macros & definitions
 '-----------------------------------
+' Default settings
+'-----------------------------------
+' left to right direction 'does not work for sequence diagrams :-(
+hide circle
+hide empty members
+hide methods	
+
 'Colors => see http://plantuml.com/color
 'skinparam monochrome true
 'skinparam monochrome reverse
@@ -28,8 +35,34 @@ skinparam arrow {
     Color<<apc>> Black
 }
 
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam arrow {
+    MessageAlign center
+}
 
 ' Usefull functions
 '-----------------------------------
 !define ressource(id,label) storage label <<Ressource>> as id
 !define sae(id,label) node label <<SAÉ>> as id
+
+
+
+
+

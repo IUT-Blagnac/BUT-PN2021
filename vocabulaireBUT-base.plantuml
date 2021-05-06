@@ -1,0 +1,43 @@
+@startuml
+
+'-----------------------------------
+' UML concepts illustrated
+' JMB 2014
+'-----------------------------------
+
+!include config.plantuml
+
+
+class t as "Type de \nparcours"
+class r as "Ressource"
+class s as "Savoir De\nRéférences"
+class a as "Apprentissage\nCritique"
+class p as "Parcours"
+class c as "Compétence"
+class ce as "Composante\nessentielle"
+class m as "Métier\naccessible"
+class n as "Niveau"
+class sae as "SAÉ"
+
+t "1" <-- p
+c *-> "3" n
+c *-> ce
+n *--> "*" a
+a --> "*" ce : Couvre
+
+p -> "*" c
+p --> "*" m : Donne accès à
+r *--> "*" s
+
+n *--> "*" r
+
+r --> "1..*" a : "Contribue"
+a "1..*" <-- "1..*" sae : "Met en oeuvre"
+s "1..*" <-- "1..*" sae : "Nécessite"
+
+Initial --|> t
+Alternance --|> t
+
+'Initial -[hidden]- Alternance
+
+@enduml

@@ -69,13 +69,18 @@ image::vs.png[width=50%]
 
 === Génération des `.svg` ou `.png` ou autre
 
+Commande pour générer en local la version `.svg` du graphe :
+
 [source]
-java -jar plantuml.jar butgraph.plantuml
+java -jar plantuml.jar -tsvg butgraph.plantuml
 
 [appendix]
 == Vocabulaire BUT
 
 Le vocabulaire du BUT étant nouveau, nous avons réalisé un diagramme de classe des différents concepts.
 
-.Les concepts du BUT (source {repo}/vocabulaireBUT.plantuml[ici])
-image::vocabulaireBUT.svg[width=80%]
+.Les concepts de base du BUT (source {repo}/vocabulaireBUT-base.plantuml[ici])
+image::vocabulaireBUT-base.svg[width=80%]
+
+.Les évaluations dans le BUT (source {repo}/vocabulaireBUT-notes.plantuml[ici])
+image::vocabulaireBUT-notes.svg[width=80%]

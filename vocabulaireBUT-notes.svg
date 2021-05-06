@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="260px" preserveAspectRatio="none" style="width:393px;height:260px;" version="1.1" viewBox="0 0 393 260" width="393px" zoomAndPan="magnify"><defs><filter height="300%" id="f34p9e8szuhbc" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[7aa6147af76c4248339d5a2582390b8a]
+class r--><rect codeLine="9" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="23.9336" id="r" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="61" x="49.82" y="7"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="55" x="52.82" y="23.2676">Ressource</text><!--MD5=[6036787eb73352ecfe97a82ba4e434c5]
+class s--><rect codeLine="10" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="37.8672" id="s" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="68" x="142.32" y="209"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="50" x="151.32" y="225.2676">Savoir De</text><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="62" x="145.32" y="239.2012">Références</text><!--MD5=[992ff124d8b86dd8158e36a2c92cdbd8]
+class sae--><rect codeLine="11" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="23.9336" id="sae" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="25" x="300.82" y="216"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="19" x="303.82" y="232.2676">SAÉ</text><!--MD5=[97c568ad9d3119ca73ba3e5162f607a2]
+class ens--><rect codeLine="12" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="23.9336" id="ens" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="88" x="132.32" y="108"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="82" x="135.32" y="124.2676">Enseignements</text><!--MD5=[3106ab2c37ca8453f9ed78d5090d39d0]
+class note--><rect codeLine="13" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="23.9336" id="note" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="32" x="37.32" y="216"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="26" x="40.32" y="232.2676">Note</text><!--MD5=[72179b8dd1b9e99d17de8083d0090894]
+class etu--><rect codeLine="14" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="23.9336" id="etu" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="52" x="214.32" y="7"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="46" x="217.32" y="23.2676">Etudiant</text><!--MD5=[9bb74694f3bdddb080d1e3a9518b5ea3]
+class pf--><rect codeLine="15" fill="#F0F8FF" filter="url(#f34p9e8szuhbc)" height="23.9336" id="pf" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="52" x="17.32" y="108"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="46" x="20.32" y="124.2676">Portfolio</text><!--MD5=[a14e624a1c4a3a4c8b81dc124a5074ab]
+link r to ens--><path codeLine="18" d="M85.0063,42.6502 C85.0063,42.6502 93.99,68.38 102.32,78 C110.88,87.89 122.45,95.86 133.88,102.05 " fill="none" id="r-ens" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="145.63,107.86,139.3354,100.2852,141.148,105.6438,135.7894,107.4563,145.63,107.86" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="141.148" x2="133.975" y1="105.6438" y2="102.095"/><polygon fill="#000000" points="82.13,31,79.6847,37.7839,85.0063,42.6502,87.4515,35.8663,82.13,31" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="125.7329" y="97.4046">*</text><!--MD5=[fce6fabacef40e6386751988c80b9fd6]
+link ens to note--><path codeLine="19" d="M163.16,132.34 C140.69,151.71 94.95,191.12 70.18,212.47 " fill="none" id="ens-to-note" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="66.39,215.74,75.815,212.8819,70.1732,212.4708,70.5843,206.8289,66.39,215.74" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="127.32" y="175.5684">Met</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="64.5439" y="205.2351">*</text><!--MD5=[d2382faf553473ea1b9a0c7a0b57fae4]
+link ens to s--><path codeLine="20" d="M175.29,132.12 C174.57,140.37 173.69,151.87 173.32,162 C172.82,175.83 173.48,191.31 174.31,203.69 " fill="none" id="ens-to-s" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="174.68,208.79,178.0286,199.5279,174.3238,203.8027,170.0489,200.0979,174.68,208.79" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="174.32" y="175.5684">Enseigne</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="167.259" y="198.2463">*</text><!--MD5=[68ff571882c8f0cb6ec8d3a1d440f8ac]
+link ens to sae--><path codeLine="21" d="M193.13,132.11 C205.09,140.15 221.43,151.42 235.32,162 C256.98,178.5 280.9,198.76 296.47,212.23 " fill="none" id="ens-to-sae" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="300.63,215.84,296.4524,206.9211,296.853,212.5637,291.2103,212.9643,300.63,215.84" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54" x="255.32" y="175.5684">Participe</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="288.1579" y="205.3764">*</text><!--MD5=[c3abd8d5f0d899c38d4c0e48b962aa49]
+link pf to note--><path codeLine="22" d="M30.84,132.12 C19.69,143.49 6,161.86 12.32,179 C17.1,191.96 27.11,203.79 36.04,212.46 " fill="none" id="pf-to-note" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="39.78,215.98,35.9677,206.8989,36.139,212.5532,30.4847,212.7245,39.78,215.98" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="54" x="13.32" y="175.5684">Amène à</text><!--MD5=[51f84e8f1492c851899f46a05c99952f]
+link etu to ens--><path codeLine="24" d="M232.98,31.36 C221.5,49.11 199.29,83.48 186.35,103.49 " fill="none" id="etu-to-ens" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="183.58,107.78,191.8245,102.3922,186.2939,103.5806,185.1055,98.05,183.58,107.78" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="212.32" y="74.5684">Suit</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="179.3372" y="97.2916">*</text><!--MD5=[81f948a2fe4dd456ebd82e5cb58b107a]
+link etu to sae--><path codeLine="25" d="M249.17,31.3 C266.57,54.29 304.69,108.87 318.32,162 C322.49,178.26 320.15,197.5 317.45,210.8 " fill="none" id="etu-to-sae" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="316.36,215.77,322.195,207.8357,317.431,210.8861,314.3807,206.1221,316.36,215.77" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="77" x="308.32" y="125.0684">Travaille sur</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="310.3765" y="205.2775">*</text><!--MD5=[a9019c4bfed32ba52209daa7ff47f463]
+link etu to pf--><path codeLine="26" d="M214,28.55 C192.16,36.02 160.56,47.73 134.32,61 C108.58,74.02 80.89,92.35 62.9,104.9 " fill="none" id="etu-to-pf" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="58.55,107.96,68.2134,106.0576,62.6408,105.085,63.6134,99.5124,58.55,107.96" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="135.32" y="74.5684">Complète</text><!--MD5=[617b6bde653bf97f4e79f791cce7c8b0]
+@startuml
+
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+' UML concepts illustrated
+' JMB 2014
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+!include config.plantuml
+
+class r as "Ressource"
+class s as "Savoir De\nRéférences"
+class sae as "SAÉ"
+class ens as "Enseignements"
+class note as "Note"
+class etu as "Etudiant"
+class pf as "Portfolio"
+
+
+r *- -> "*" ens
+ens - -> "*" note : "Met"
+ens - -> "*" s : "Enseigne"
+ens - -> "*" sae : "Participe"
+pf - -> note : "Amène à"
+
+etu - -> "*" ens : "Suit"
+etu - -> "*" sae : "Travaille sur"
+etu - -> pf : "Complète"
+
+'Initial -[hidden]- Alternance
+
+@enduml
+
+@startuml
+
+
+hide circle
+hide empty members
+hide methods	
+
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor Lightyellow
+}
+
+skinparam node {
+  BackgroundColor Skyblue
+}
+
+skinparam rectangle {
+  BackgroundColor Lightgreen
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<apc>> Black
+}
+
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam arrow {
+    MessageAlign center
+}
+
+
+
+
+
+
+
+class r as "Ressource"
+class s as "Savoir De\nRéférences"
+class sae as "SAÉ"
+class ens as "Enseignements"
+class note as "Note"
+class etu as "Etudiant"
+class pf as "Portfolio"
+
+
+r *- -> "*" ens
+ens - -> "*" note : "Met"
+ens - -> "*" s : "Enseigne"
+ens - -> "*" sae : "Participe"
+pf - -> note : "Amène à"
+
+etu - -> "*" ens : "Suit"
+etu - -> "*" sae : "Travaille sur"
+etu - -> pf : "Complète"
+
+
+@enduml
+
+PlantUML version 1.2021.2beta14(Unknown compile time)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>

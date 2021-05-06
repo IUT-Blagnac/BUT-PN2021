@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="573px" preserveAspectRatio="none" style="width:485px;height:573px;" version="1.1" viewBox="0 0 485 573" width="485px" zoomAndPan="magnify"><defs><filter height="300%" id="fgddut4ei00sq" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c7ffb9edfd102118430eb07dc6c6f7f9]
+class t--><rect codeLine="10" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="37.8672" id="t" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="55" x="41" y="92"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="45" x="44" y="108.2676">Type de</text><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="47" x="45" y="122.2012">parcours</text><!--MD5=[7aa6147af76c4248339d5a2582390b8a]
+class r--><rect codeLine="11" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="r" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="61" x="331" y="299"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="55" x="334" y="315.2676">Ressource</text><!--MD5=[6036787eb73352ecfe97a82ba4e434c5]
+class s--><rect codeLine="12" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="37.8672" id="s" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="68" x="395.5" y="407"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="50" x="404.5" y="423.2676">Savoir De</text><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="62" x="398.5" y="437.2012">Références</text><!--MD5=[7fa0c39d1c3af83d477b170083073713]
+class a--><rect codeLine="13" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="37.8672" id="a" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="83" x="257" y="407"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="77" x="260" y="423.2676">Apprentissage</text><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="44" x="276.5" y="437.2012">Critique</text><!--MD5=[217537f29afe639f347895754667a4fd]
+class p--><rect codeLine="14" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="p" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="53" x="42" y="191"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="47" x="45" y="207.2676">Parcours</text><!--MD5=[e3471f280e59d1431a9a122c0f31e779]
+class c--><rect codeLine="15" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="c" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="75" x="138" y="191"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="69" x="141" y="207.2676">Compétence</text><!--MD5=[26efd2e1d59de112df14df86c5c974fe]
+class ce--><rect codeLine="16" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="37.8672" id="ce" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="72" x="168.5" y="522"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="66" x="171.5" y="538.2676">Composante</text><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="61" x="174" y="552.2012">essentielle</text><!--MD5=[3a0eb407db395671c67c4950880c56d7]
+class m--><rect codeLine="17" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="37.8672" id="m" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="62" x="28.5" y="292"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="36" x="41.5" y="308.2676">Métier</text><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="56" x="31.5" y="322.2012">accessible</text><!--MD5=[6725746db98061b12995d31afe071c54]
+class n--><rect codeLine="18" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="n" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="43" x="256" y="191"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="37" x="259" y="207.2676">Niveau</text><!--MD5=[992ff124d8b86dd8158e36a2c92cdbd8]
+class sae--><rect codeLine="19" fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="sae" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="25" x="372" y="529"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="19" x="375" y="545.2676">SAÉ</text><!--MD5=[6c4316a0bd29d6d1c1b259ee741fa890]
+class Initial--><rect fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="Initial" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="37" x="7" y="7"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="31" x="10" y="23.2676">Initial</text><!--MD5=[906856dc439a34fa32d82233874b9e02]
+class Alternance--><rect fill="#F0F8FF" filter="url(#fgddut4ei00sq)" height="23.9336" id="Alternance" rx="5" ry="5" style="stroke:#2F4F4F;stroke-width:1.5;" width="67" x="79" y="7"/><text fill="#000000" font-family="TrebuchetMS" font-size="12" lengthAdjust="spacing" textLength="61" x="82" y="23.2676">Alternance</text><!--MD5=[6b433423600b452583f94f606ba9f261]
+reverse link t to p--><path codeLine="21" d="M68.5,135.55 C68.5,153.42 68.5,177.17 68.5,190.91 " fill="none" id="t-backto-p" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="68.5,130.21,64.5,139.21,68.5,135.21,72.5,139.21,68.5,130.21" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="59.375" y="150.3529">1</text><!--MD5=[2c6679781957cb381f539def0f2cbfb1]
+link c to n--><path codeLine="22" d="M225.35,203 C225.35,203 237.34,203 242.68,203 " fill="none" id="c-n" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="255.95,203,246.95,199,250.95,203,246.95,207,255.95,203" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="250.95" x2="242.95" y1="203" y2="203"/><polygon fill="#000000" points="213.35,203,219.35,207,225.35,203,219.35,199,213.35,203" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="240.1253" y="198.3292">3</text><!--MD5=[a20e18e355b08e3afb0b860e06d662c2]
+link c to ce--><path codeLine="23" d="M177.4882,227.1359 C177.4882,227.1359 196.07,442.3 201.8,508.73 " fill="none" id="c-ce" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="202.94,521.87,206.1542,512.5604,202.5116,516.8884,198.1836,513.2458,202.94,521.87" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="202.5116" x2="201.815" y1="516.8884" y2="508.92"/><polygon fill="#000000" points="176.46,215.18,172.9888,221.5007,177.4882,227.1359,180.9594,220.8152,176.46,215.18" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[72408a9fce5a847fdea4550b050a610a]
+link n to a--><path codeLine="24" d="M279.717,227.2051 C279.717,227.2051 291.33,349.54 295.55,393.95 " fill="none" id="n-a" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="296.79,407,299.9114,397.6589,296.3121,402.0229,291.948,398.4236,296.79,407" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="296.3121" x2="295.56" y1="402.0229" y2="394.055"/><polygon fill="#000000" points="278.57,215.26,275.1618,221.6149,279.717,227.2051,283.1252,220.8502,278.57,215.26" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="289.2887" y="396.1921">*</text><!--MD5=[b95b81e0ef64229999f6084f0655f3d7]
+link a to ce--><path codeLine="25" d="M278.57,445.44 C269.63,454.09 259.16,464.73 250.5,475 C239.13,488.48 227.67,504.67 219.03,517.52 " fill="none" id="a-to-ce" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="216.21,521.74,224.5305,516.4703,218.9835,517.5797,217.8741,512.0327,216.21,521.74" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="251.5" y="488.5684">Couvre</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="212.8774" y="511.181">*</text><!--MD5=[8cdd25b2042008f4951f99f6c612d088]
+link p to c--><path codeLine="27" d="M95.25,203 C107.68,203 120.12,203 132.55,203 " fill="none" id="p-to-c" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="137.88,203,128.88,199,132.88,203,128.88,207,137.88,203" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="123.8829" y="199.1289">*</text><!--MD5=[570edd649fb2c399b539bc25c64fa612]
+link p to m--><path codeLine="28" d="M64.25,215.29 C61.42,223.42 57.97,234.72 56.5,245 C54.52,258.8 55.15,274.39 56.33,286.85 " fill="none" id="p-to-m" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="56.86,291.98,59.9127,282.6162,56.3455,287.0065,51.9551,283.4394,56.86,291.98" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="91" x="57.5" y="258.5684">Donne accès à</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="49.0623" y="281.1658">*</text><!--MD5=[83f07c80460ebf22ea7152e1bc3b1282]
+link r to s--><path codeLine="29" d="M381.7051,332.0209 C381.7051,332.0209 397.63,350.41 403.5,360 C410.03,370.65 415.5,383.23 419.72,394.47 " fill="none" id="r-s" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="424.08,406.85,424.8685,397.0328,422.4216,402.133,417.3214,399.6861,424.08,406.85" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="422.4216" x2="419.765" y1="402.133" y2="394.59"/><polygon fill="#000000" points="373.42,323.34,374.6689,330.4421,381.7051,332.0209,380.4562,324.9187,373.42,323.34" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="415.5014" y="396.3247">*</text><!--MD5=[be3241b8e594cc7991e5af057c237f8d]
+link n to r--><path codeLine="31" d="M293.9428,224.7451 C293.9428,224.7451 329.99,270.23 344.47,288.51 " fill="none" id="n-r" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="352.58,298.74,350.1254,289.2019,349.4747,294.8212,343.8554,294.1705,352.58,298.74" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="349.4747" x2="344.505" y1="294.8212" y2="288.545"/><polygon fill="#000000" points="286.49,215.34,287.0814,222.5268,293.9428,224.7451,293.3514,217.5583,286.49,215.34" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="6" x="341.663" y="288.2351">*</text><!--MD5=[c242564615f203cf2f6e63f108b836cc]
+link r to a--><path codeLine="33" d="M355.23,323.25 C345.02,341.57 324.59,378.2 311.24,402.14 " fill="none" id="r-to-a" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="308.67,406.75,316.5374,400.8252,311.0982,402.3792,309.5442,396.94,308.67,406.75" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="334.5" y="373.5684">Contribue</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="315.1533" y="396.1941">1..*</text><!--MD5=[0b785459d7582d968a154d17d34109a8]
+reverse link a to sae--><path codeLine="34" d="M299.27,450.34 C300.69,463.53 304.19,479.78 312.5,492 C327.29,513.74 355.5,528.19 371.88,535.15 " fill="none" id="a-backto-sae" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="298.8,445.26,295.6385,454.5876,299.2565,450.2391,303.6051,453.8572,298.8,445.26" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="88" x="313.5" y="488.5684">Met en oeuvre</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="273.7906" y="465.417">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="342.0559" y="548.3274">1..*</text><!--MD5=[2d3047b47e5a76e6f76dfef04b7f4484]
+reverse link s to sae--><path codeLine="35" d="M424.09,449.86 C420.78,462.5 416.11,478.37 410.5,492 C405.09,505.15 397.09,519.37 391.4,528.89 " fill="none" id="s-backto-sae" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="425.33,445,419.2183,452.7232,424.0871,449.8431,426.9672,454.7118,425.33,445" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="416.5" y="488.5684">Nécessite</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="398.8738" y="465.4179">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="367.7087" y="518.447">1..*</text><!--MD5=[4ef837b4aa55bfe99f6a8c2f9d24d17f]
+link Initial to t--><path codeLine="37" d="M30.77,31.04 C35.85,41.66 43.81,58.33 51.12,73.62 " fill="none" id="Initial-to-t" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="57.45,70.63,59.75,91.69,44.81,76.66,57.45,70.63" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[fe592c120627d54b52ce71da6a7ce336]
+link Alternance to t--><path codeLine="38" d="M107.1,31.04 C101.91,41.66 93.76,58.33 86.28,73.62 " fill="none" id="Alternance-to-t" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="92.52,76.8,77.45,91.69,79.95,70.65,92.52,76.8" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[b15632c159fe1725a62de1e3f4d861b5]
+@startuml
+
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+' UML concepts illustrated
+' JMB 2014
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+!include config.plantuml
+
+
+class t as "Type de \nparcours"
+class r as "Ressource"
+class s as "Savoir De\nRéférences"
+class a as "Apprentissage\nCritique"
+class p as "Parcours"
+class c as "Compétence"
+class ce as "Composante\nessentielle"
+class m as "Métier\naccessible"
+class n as "Niveau"
+class sae as "SAÉ"
+
+t "1" <- - p
+c *-> "3" n
+c *-> ce
+n *- -> "*" a
+a - -> "*" ce : Couvre
+
+p -> "*" c
+p - -> "*" m : Donne accès à
+r *- -> "*" s
+
+n *- -> "*" r
+
+r - -> "1..*" a : "Contribue"
+a "1..*" <- - "1..*" sae : "Met en oeuvre"
+s "1..*" <- - "1..*" sae : "Nécessite"
+
+Initial - -|> t
+Alternance - -|> t
+
+'Initial -[hidden]- Alternance
+
+@enduml
+
+@startuml
+
+
+hide circle
+hide empty members
+hide methods	
+
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor Lightyellow
+}
+
+skinparam node {
+  BackgroundColor Skyblue
+}
+
+skinparam rectangle {
+  BackgroundColor Lightgreen
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<apc>> Black
+}
+
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam arrow {
+    MessageAlign center
+}
+
+
+
+
+
+
+
+
+class t as "Type de \nparcours"
+class r as "Ressource"
+class s as "Savoir De\nRéférences"
+class a as "Apprentissage\nCritique"
+class p as "Parcours"
+class c as "Compétence"
+class ce as "Composante\nessentielle"
+class m as "Métier\naccessible"
+class n as "Niveau"
+class sae as "SAÉ"
+
+t "1" <- - p
+c *-> "3" n
+c *-> ce
+n *- -> "*" a
+a - -> "*" ce : Couvre
+
+p -> "*" c
+p - -> "*" m : Donne accès à
+r *- -> "*" s
+
+n *- -> "*" r
+
+r - -> "1..*" a : "Contribue"
+a "1..*" <- - "1..*" sae : "Met en oeuvre"
+s "1..*" <- - "1..*" sae : "Nécessite"
+
+Initial - -|> t
+Alternance - -|> t
+
+
+@enduml
+
+PlantUML version 1.2021.2beta14(Unknown compile time)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>
