@@ -77,10 +77,20 @@ java -jar plantuml.jar -tsvg butgraph.plantuml
 [appendix]
 == Vocabulaire BUT
 
-Le vocabulaire du BUT étant nouveau, nous avons réalisé un diagramme de classe des différents concepts.
+Le vocabulaire du BUT étant nouveau, nous avons réalisé plusieurs diagrammes de classe des différents concepts.
+
+=== Concepts de base
 
 .Les concepts de base du BUT (source {repo}/vocabulaireBUT-base.plantuml[ici])
-image::vocabulaireBUT-base.svg[width=80%]
+image::vocabulaireBUT-base.svg[width=70%]
+
+=== Les différents parcours
+
+.Les parcours possibles du BUT informatique (source {repo}/vocabulaireBUT-parcours.plantuml[ici])
+image::vocabulaireBUT-parcours.svg[width=1000%]
+
+===  Notation et évaluation
 
 .Les évaluations dans le BUT (source {repo}/vocabulaireBUT-notes.plantuml[ici])
-image::vocabulaireBUT-notes.svg[width=80%]
+image::vocabulaireBUT-notes.svg[width=70%]
+

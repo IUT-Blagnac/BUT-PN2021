@@ -1,0 +1,32 @@
+@startuml
+
+'-----------------------------------
+' UML concepts illustrated
+' JMB 2014
+'-----------------------------------
+
+!include config.plantuml
+
+
+class t as "Type de \nparcours"
+class p as "Parcours"
+
+t "1" <-- p
+Initial --|> t
+Alternance --|> t
+
+class a as "A\nRéalisation d’applications :\nconception, développement, validation"
+class b as "B\nDéploiement d’applications\ncommunicantes et sécurisées"
+class c as "C\nAdministration, gestion\net exploitation des données"
+class d as "C\nIntégration d’applications\net management du système d’information"
+
+p <|-- a
+p <|-- b
+p <|-- c
+p <|-- d
+
+
+
+'Initial -[hidden]- Alternance
+
+@enduml
