@@ -99,7 +99,7 @@ image::vocabulaireBUT-parcours.svg[width=1000%]
 .Les évaluations dans le BUT (source {repo}/vocabulaireBUT-notes.plantuml[ici])
 image::vocabulaireBUT-notes.svg[width=70%]
 
-=== Glossaire
+=== Glossaire des acronymes
 
 AC:: Apprentissage Critique
 APC:: Apprentissage Par Compétence
