@@ -1,19 +1,19 @@
 '----------- Compétences
 
 package Competence1 {
-rectangle "APC11 : Implementer des conceptions simples" as APC11 
-rectangle "APC12 : Elaborer des conceptions simples" as APC12
-rectangle "APC13 : Faire des essais et evaluer leurs resultats en regard des specifications" as APC13
-rectangle "APC14 : Developper des interfaces utilisateur" as APC14
+rectangle "AC11 : Implementer des conceptions simples" as AC11 
+rectangle "AC12 : Elaborer des conceptions simples" as AC12
+rectangle "AC13 : Faire des essais et evaluer leurs resultats en regard des specifications" as AC13
+rectangle "AC14 : Developper des interfaces utilisateur" as AC14
 }
 
 package Competence2 {
-rectangle "APC21 : Analyser un problème avec méthode" as APC21 
-rectangle "APC22 : Comparer des algo pour des pb classiques" as APC22
-rectangle "APC23 : Experimentaion de la notion de compilation" as APC23
+rectangle "AC21 : Analyser un problème avec méthode" as AC21 
+rectangle "AC22 : Comparer des algo pour des pb classiques" as AC22
+rectangle "AC23 : Experimentaion de la notion de compilation" as AC23
 }
 
 package Competence5 {
-rectangle "APC51 : Apprehender les besoins du client et de l'utilisateur" as APC51 
-rectangle "APC52 : Mettre en place des outils de gestion de projet" as APC52
+rectangle "AC51 : Apprehender les besoins du client et de l'utilisateur" as AC51 
+rectangle "AC52 : Mettre en place des outils de gestion de projet" as AC52
 }

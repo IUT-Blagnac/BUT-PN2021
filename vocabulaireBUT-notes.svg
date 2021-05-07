@@ -70,7 +70,7 @@ skinparam rectangle {
 }
 
 skinparam arrow {
-    Color<<apc>> Black
+    Color<<ac>> Black
 }
 
 skinparam package {
