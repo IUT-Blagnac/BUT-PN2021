@@ -94,3 +94,9 @@ image::vocabulaireBUT-parcours.svg[width=1000%]
 .Les évaluations dans le BUT (source {repo}/vocabulaireBUT-notes.plantuml[ici])
 image::vocabulaireBUT-notes.svg[width=70%]
 
+=== Glossaire
+
+AC:: Apprentissage Critique
+APC:: Apprentissage Par Compétence
+BUT:: Bachelor Universitaire de Technologie
+SAÉ:: Situation d'Apprentissage et d'Évaluation
