@@ -4,6 +4,11 @@
 
 Tentative d'organisation des dépendances SAÉ / Compétences / etc. du BUT Informatique 
 
+== Planification S1
+
+.Liens Ressources/SAÉ pour le S1 (source link:{repo}/buts1.plantuml[buts1.plantuml])
+image::buts1.svg[]
+
 == Organisation
 
 Le répertoire contient des descriptions des :
