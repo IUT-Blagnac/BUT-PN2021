@@ -1,0 +1,91 @@
+:num-sae: 1.03
+:mytitle: Installation d’un poste pour le développement
+:year: 2021-2022
+:heures-sae: 15
+:eclipse: https://eclipse.org[eclipse]
+:asciidoc: https://asciidoc.org/[Asciidoc]
+= SAÉ {num-sae}: {mytitle}
+:icons: font
+:lr: mailto:laurence.redon@uni-tlse2.fr[L. Redon] (p)
+
+
+== Programme national
+
+:mywidth: 32
+image:saes/{num-sae}/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:saes/{num-sae}/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:saes/{num-sae}/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+
+== Déclinaison {year} image:dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+
+=== Présentation de la SAÉ {num-sae}
+
+En S2, la SAÉ relative à la link:C1.adoc[compétence 1 (Développer des applications)], à la compétence 4 (Gérer des données), à la compétence 5 (Conduire un projet) et à la compétence 6 (Travailler en équipe) vous amènera à travailler en groupe pour développer une application. 
+Pour ce faire, un certain nombre d’outils logiciels sont nécessaires. 
+L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à construire une solution logicielle sous la forme d’une machine virtuelle (VM) comportant tous les composants nécessaires au développement de l’application du S2,  solution déployable sur Linux.
+
+=== Attendus
+
+La VM doit permettre de :
+
+- Disposer d’un environnement de développement (IDE {eclipse})
+- Développer en Java V1.8
+- Produire des diagrammes de Gantt
+- Produire de la documentation en {asciidoc}
+- Générer un `pdf`
+- Faire des requêtes sur une base de données en se connectant avec un compte (SQL Developer + OJDBC8)
+- Gérer le versionning du code et de la documentation (client Git Tortoise).
+
+
+=== Contraintes
+
+La VM doit avoir une taille mémoire inférieure à x Go
+
+
+=== icon:book[] Livrables
+
+- Scripts de tests permettant de démontrer que la VM est opérationnelle et permet de réaliser les actions attendues
+- Documentation technique
+- Documentation utilisateur pour la déployer sur un poste Linux
+
+
+== QuiQuandQuoiOù
+
+[cols="1a,1a"]
+|===
+|
+=== icon:graduation-cap[] Qui ?
+
+- P. Stolf (p)
+- R. Boulle (p)
+- {lr}
+- X (v)
+- X (v)
++
+NOTE: Assistance pendant les {heures-sae}h PJT + tests validation
+| 
+=== icon:calendar[] Quand ?
+
+- {heures-sae}h TP PJT : s49 et/ou s50 (construction)
+- 3h TD R1-03 : s50 (validation/tests)
+- 1h30 TD R1-04 : s48 (présentation)
+- 1h30 TP R1-10 : sX (vocabulaire)
+- 1h30 R1-11 : sX (doc user/doc tech)
+|
+=== icon:map-signs[] Où ?
+
+- Salles TP (4 équipes/salle) pour les {heures-sae}h de PJT
+- Salle TD pour la validation (démo avec vidéo proj)
+
+|
+=== icon:wrench[] Quoi ?
+
+- Versions des outils mis à disposition 
+- Espace pour déposer la VM (25 équipes x x Go)
+
+|===
+
+
+
+
+

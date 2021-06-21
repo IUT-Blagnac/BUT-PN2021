@@ -1,4 +1,12 @@
 '----------- Ressources
-storage "DEV 1.1\nIAP\n48(24)" as iap
-storage "DEV 1.2\nSDA\n54(30)" as sda
-storage "DEV 1.3\nCDIN\n23(18)" as cdin
+storage "R1.01\nInitiation au dev." as r11
+storage "R1.02\nDev. interfaces web" as r12
+storage "R1.03\nIntro. archi." as r13
+storage "R1.04\nIntro. systèmes " as r14
+storage "R1.05\nIntroduction BD " as r15
+storage "R1.06\nMaths discrètes " as r16
+storage "R1.07\nOutils fondamentaux " as r17
+storage "R1.08\nGestion proj. orga. " as r18
+storage "R1.09\nÉconomie" as r19
+storage "R1.10\nAnglais technique" as r110
+storage "R1.11\nBases de la comm " as r111
