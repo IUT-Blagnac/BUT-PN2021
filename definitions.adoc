@@ -1,0 +1,6 @@
+// Définition des enseignants
+:ap: A. Peninou
+:ep: E. Pendaries
+:jmb: mailto:jbruel@gmail.com[J.-M. Bruel]
+:lr: mailto:laurence.redon@uni-tlse2.fr[L. Redon]
+:pso: P. Sotin
