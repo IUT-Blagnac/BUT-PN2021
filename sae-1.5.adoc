@@ -2,7 +2,6 @@
 :mytitle: Recueil de besoins
 :year: 2021-2022
 :heures-sae: 12
-:asciidoc: https://asciidoc.org/[Asciidoc]
 = SAÉ {num-sae}: {mytitle}
 :icons: font
 include::definitions.adoc[]
@@ -20,39 +19,38 @@ image:saes/{num-sae}/competences.png["competences",width={mywidth}%,pdfwidth={my
 
 En S1, la SAÉ relative aux compétences :
 
-- link:C1.adoc[compétence 1 (Développer des applications)]
+- link:C5.adoc[Compétence 5 (Identifier les besoins métiers des clients et des utilisateurs)] (40%)
 
-L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à construire une solution logicielle sous la forme d’une machine virtuelle (VM) comportant tous les composants nécessaires au développement de l’application du S2,  solution déployable sur Linux.
+L’objectif de la SAÉ {num-sae} vise à évaluer votre capacité à écouter et retranscrire les besoins d'un client pour un projet (un produit, une application, une activité à venir) donné.
 
 Les ressources mises en oeuvre sont les suivantes :
 
 - R1.2 Dév. Int. Web (2h TP -- maquettes écran)
-- R1.8 Gestion de projet (4h TD -- notions de clients, utilisateurs, personna, User Story, exigences)
+- R1.8 Gestion de projet (4h TD -- notions de clients, utilisateurs, personnae, User Story, exigences)
 - R1.11 Base de la com (pas d'heures -- questions type OQQCP...)
 
 
 === Attendus
 
-La VM doit permettre de :
+Le recueil du besoin doit permettre au client de s'assurer que son besoin a bien été compris.
+Il pourra donc contenir (en fonction du contexte) :
 
-- Disposer d’un environnement de développement (IDE {eclipse})
-- Développer en Java V1.8
-- Produire des diagrammes de Gantt
-- Produire de la documentation en {asciidoc}
-- Générer un `pdf`
-- Faire des requêtes sur une base de données en se connectant avec un compte (SQL Developer + OJDBC8)
-- Gérer le versionning du code et de la documentation (client Git Tortoise).
-
+- des schémas (e.g., diagrammes des cas d'utilisation)
+- des tableaux, des listes (de personnes, de propriétés, ...)
+- des scénarios d'utilisation
+- des captures d'écran ou des photos (s'il y a un existant)
+- des maquettes de la future application 
+- tout élément qui vous semble pertinent pour la compréhension et la capture du besoin client
 
 === Contraintes
 
-La VM doit avoir une taille mémoire inférieure à x Go
-
+Les besoins du client doivent être réel.
 
 === icon:book[] Livrables
 
-- Recueil de besoin (au format `PDF`) sur un dépôt moodle dédié
-- Vidéo finale de présentation (10' max) sur un dépôt moodle dédié
+[%interactive]
+- [ ] Recueil de besoin (au format `PDF`) sur un dépôt moodle dédié
+- [ ] Vidéo finale de présentation (10' max) sur un dépôt moodle dédié
 
 == Organisation
 
@@ -89,8 +87,8 @@ NOTE: Assistance pendant les {heures-sae}h PJT
 
 | === icon:wrench[] Quoi ?
 
-- Versions des outils mis à disposition 
-- Espace pour déposer la VM (25 équipes x x Go)
+- Outils de maquettage ({balsamiq}, {figma}, {mockplus})
+- Outils modernes de rédaction ({asciidoc}, {latex})
 
 |===
 //----------------------------------------------------------------------------

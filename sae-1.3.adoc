@@ -2,8 +2,6 @@
 :mytitle: Installation d’un poste pour le développement
 :year: 2021-2022
 :heures-sae: 15
-:eclipse: https://eclipse.org[eclipse]
-:asciidoc: https://asciidoc.org/[Asciidoc]
 = SAÉ {num-sae}: {mytitle}
 :icons: font
 include::definitions.adoc[]

@@ -1,8 +1,22 @@
 #-----------------------------------------------------
-%.png: %.plantuml
-	@echo '==> Compiling plantUML files to generate PNG'
-	java -jar plantuml.jar $<
+# Some usefull instructions...
+#
+DOC = asciidoctor -a allow-uri-read
+#-----------------------------------------------------
 
-%.svg: %.plantuml
-	@echo '==> Compiling plantUML files to generate SVG'
-	java -jar plantuml.jar -tSVG $<
+all: *.pdf *.html 
+
+# main.adoc: main-template.adoc $(BOOKS)
+# 	mvn asciidoc-template::build
+
+%.html: %.adoc 
+	$(DOC) $<
+
+%.pdf: %.adoc 
+	asciidoctor-pdf -a allow-uri-read -a pdf-backend $<
+
+clean:
+	rm *.html
+
+check:
+	cucumber

@@ -1,0 +1,18 @@
+:num-comp: 5
+:mytitle: Identifier les besoins métiers des clients et des utilisateurs
+:year: 2021-2022
+= Compétence {num-comp}: {mytitle}
+:icons: font
+include::definitions.adoc[]
+
+== Programme national
+
+:mywidth: 90
+image:competences/c5.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+
+== Déclinaison {year} image:dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+
+
+
+
+

@@ -4,3 +4,11 @@
 :jmb: mailto:jbruel@gmail.com[J.-M. Bruel]
 :lr: mailto:laurence.redon@uni-tlse2.fr[L. Redon]
 :pso: P. Sotin
+
+// Outils
+:asciidoc: https://asciidoc.org/[Asciidoc]
+:balsamiq: https://balsamiq.com/[Balsamiq]
+:eclipse: https://eclipse.org[eclipse]
+:figma: https://www.figma.com/[Figma]
+:latex: https://www.latex-project.org/[LaTeX]
+:mockplus: https://app.mockplus.com/[Mockplus]
