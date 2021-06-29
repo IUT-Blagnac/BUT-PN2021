@@ -2,7 +2,7 @@
 :mytitle: Recueil de besoins
 :year: 2021-2022
 :heures-sae: 12
-= SAÉ {num-sae}: {mytitle}
+= SAÉ {num-sae} : {mytitle}
 :icons: font
 include::definitions.adoc[]
 
@@ -64,8 +64,8 @@ Les besoins du client doivent être réel.
 - {jmb} (p)
 - {pso} (p)
 - {ap} (p)
-- X (v)
-- X (v)
+//- X (v)
+//- X (v)
 +
 NOTE: Assistance pendant les {heures-sae}h PJT
 
