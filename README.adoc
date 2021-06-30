@@ -1,6 +1,7 @@
 = BUT-PPN2021
 :plantuml: https://plantuml.com/[PlantUML]
 :repo: https://github.com/IUT-Blagnac/BUT-PPN2021/blob/main/
+:imagesdir: images
 
 Tentative d'organisation des dépendances SAÉ / Compétences / etc. du BUT Informatique 
 
@@ -8,6 +9,11 @@ Tentative d'organisation des dépendances SAÉ / Compétences / etc. du BUT Info
 
 .Liens Ressources/SAÉ pour le S1 (source link:{repo}/buts1.plantuml[buts1.plantuml])
 image::buts1.svg[]
+
+== Plannification S2
+
+.Exemple de lien entre SAÉ (ici les SAÉs correspondant à l'actuel Ptut S2 -- source link:{repo}/plannif-sae-s2.plantuml[plannif-sae-s2.plantuml])
+image::sae-s2-exemple-plannif.svg[]
 
 == Organisation
 
