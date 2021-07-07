@@ -43,8 +43,8 @@ La VM doit avoir une taille mémoire inférieure à x Go
 === icon:book[] Livrables
 
 - Scripts de tests permettant de démontrer que la VM est opérationnelle et permet de réaliser les actions attendues
-- Documentation technique
-- Documentation utilisateur pour la déployer sur un poste Linux
+- FAQ des problèmes rencontrés et des solutions apportées ou « How To » faute de problèmes
+
 
 
 == QuiQuandQuoiOù
@@ -57,7 +57,7 @@ La VM doit avoir une taille mémoire inférieure à x Go
 - P. Stolf (p)
 - R. Boulle (p)
 - {lr} (p)
-- X (v)
+- M. de Michiel (p)
 - X (v)
 +
 NOTE: Assistance pendant les {heures-sae}h PJT + tests validation
@@ -67,8 +67,8 @@ NOTE: Assistance pendant les {heures-sae}h PJT + tests validation
 - {heures-sae}h TP PJT : s49 et/ou s50 (construction)
 - 3h TD R1-03 : s50 (validation/tests)
 - 1h30 TD R1-04 : s48 (présentation)
-- 1h30 TP R1-10 : sX (vocabulaire)
-- 1h30 R1-11 : sX (doc user/doc tech)
+- 1h30 TP R1-10 : sX (man)
+- 1h30 R1-11 : sX (FAQ)
 |
 === icon:map-signs[] Où ?
 
@@ -79,7 +79,7 @@ NOTE: Assistance pendant les {heures-sae}h PJT + tests validation
 === icon:wrench[] Quoi ?
 
 - Versions des outils mis à disposition 
-- Espace pour déposer la VM (25 équipes x x Go)
+- Espace pour déposer la VM (35 équipes x x Go)
 
 |===
 
