@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="400px" preserveAspectRatio="none" style="width:1925px;height:400px;background:#FFFFFF;" version="1.1" viewBox="0 0 1925 400" width="1925px" zoomAndPan="magnify"><defs><filter height="300%" id="f1mu517wpxayjy" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="126" x="893.25" y="17.4023">Info - S2 v.0.1</text><!--MD5=[3dd012b86c530173416fc7d253686481]
+entity r21--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="52.9766" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="95" x="7" y="36.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="34.5" y="59.7344">R2.01</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="17" y="76.2227">Dev. objets</text><!--MD5=[67e35ef8368026846775d77cdad31749]
+entity r22--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="98" x="282.5" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="311.5" y="51.7344">R2.02</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="292.5" y="68.2227">Dev. d'apps</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="301.5" y="84.7109">avec IHM</text><!--MD5=[821d39525161270f4df82e6e1c6ea972]
+entity r23--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="52.9766" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="118" x="415.5" y="36.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="454.5" y="59.7344">R2.03</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="425.5" y="76.2227">Qualitéde dev.</text><!--MD5=[4526145502876c8641a74161f7bfce04]
+entity r24--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="93" x="1559" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1585.5" y="51.7344">R2.04</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="1574" y="68.2227">Réseau &amp;</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="1569" y="84.7109">bas niveau</text><!--MD5=[ea8bbe0161979ef7bb390998b0e29ddc]
+entity r25--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="75" x="1449" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1466.5" y="51.7344">R2.05</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1459" y="68.2227">Services</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="1463.5" y="84.7109">réseau</text><!--MD5=[b6ed600b18067e5ea2c1ab61ebbc14c2]
+entity r26--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="103" x="696" y="179.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="727.5" y="202.7344">R2.06</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="706" y="219.2227">Exploitation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="18" x="738.5" y="235.7109">BD</text><!--MD5=[3b3ce3ef3d4fda525390598c347fcefd]
+entity r27--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="52.9766" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="77" x="592" y="36.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="610.5" y="59.7344">R2.07</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="602" y="76.2227">Graphes</text><!--MD5=[444db3d6594d48f94fe2423716e7ae22]
+entity r28--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="101" x="1687" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1717.5" y="51.7344">R2.08</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="1721" y="68.2227">Stats</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="1697" y="84.7109">descriptives</text><!--MD5=[90a05418a5c15d3ea694fe8b2f180047]
+entity r29--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="102" x="137.5" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="168.5" y="51.7344">R2.09</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="155" y="68.2227">Méthodes</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="147.5" y="84.7109">numériques</text><!--MD5=[6f91ec1b5b5d3afdad109e38141ee2af]
+entity r210--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="92" x="823.5" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="849.5" y="51.7344">R2.10</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="843.5" y="68.2227">Gestion</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="833.5" y="84.7109">proj. orga.</text><!--MD5=[daa90006a4d24914e0b27abc1980b845]
+entity r211--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="52.9766" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="60" x="950.5" y="36.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="960.5" y="59.7344">R2.11</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="963.5" y="76.2227">Droit</text><!--MD5=[5b41133029c4fbc70ea2d4b37c7a795a]
+entity r212--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="69.4648" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="90" x="1045.5" y="28.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1070.5" y="51.7344">R2.12</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="1065" y="68.2227">Anglais</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="1055.5" y="84.7109">entreprise</text><!--MD5=[0c56e812ee651e920de27167759daf02]
+entity r213--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="52.9766" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="106" x="1170.5" y="36.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1203.5" y="59.7344">R2.13</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="1180.5" y="76.2227">Comm. prof.</text><!--MD5=[a50e97fbc8b6df51ab3f87d48cfe58d8]
+entity r214--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="52.9766" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="60" x="1311.5" y="36.1992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="1321.5" y="59.7344">R2.14</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="24" x="1329.5" y="76.2227">PPP</text><!--MD5=[48493126fa2adf7bf42c5ee6c3f6b89a]
+entity sae21--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="302,340.1992,312,330.1992,463,330.1992,463,383.1758,453,393.1758,302,393.1758,302,340.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="453" x2="463" y1="340.1992" y2="330.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="302" x2="453" y1="340.1992" y2="340.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="453" x2="453" y1="340.1992" y2="393.1758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="351.5" y="363.7344">SAE 2.1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="317" y="380.2227">Dév. d'application</text><!--MD5=[78c1c779cee1c3970eadef28204613e5]
+entity sae22--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="110.5,192.1992,120.5,182.1992,264.5,182.1992,264.5,235.1758,254.5,245.1758,110.5,245.1758,110.5,192.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="254.5" x2="264.5" y1="192.1992" y2="182.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="110.5" x2="254.5" y1="192.1992" y2="192.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="254.5" x2="254.5" y1="192.1992" y2="245.1758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="156.5" y="215.7344">SAE 2.2</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="125.5" y="232.2227">Exploration algo</text><!--MD5=[3642ef1f7d792ec884592e1365e78771]
+entity sae23--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="1443.5,184.1992,1453.5,174.1992,1597.5,174.1992,1597.5,243.6641,1587.5,253.6641,1443.5,253.6641,1443.5,184.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1587.5" x2="1597.5" y1="184.1992" y2="174.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1443.5" x2="1587.5" y1="184.1992" y2="184.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1587.5" x2="1587.5" y1="184.1992" y2="253.6641"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="1489.5" y="207.7344">SAE 2.3</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="1475.5" y="224.2227">Installation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="1458.5" y="240.7109">Services réseaux</text><!--MD5=[55455c50b830e655fc49018a378df9dc]
+entity sae24--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="797,340.1992,807,330.1992,942,330.1992,942,383.1758,932,393.1758,797,393.1758,797,340.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="932" x2="942" y1="340.1992" y2="330.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="797" x2="932" y1="340.1992" y2="340.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="932" x2="932" y1="340.1992" y2="393.1758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="838.5" y="363.7344">SAE 2.4</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="812" y="380.2227">Exploitation BD</text><!--MD5=[1bccca68a8abd4d36777f1f6b8d15065]
+entity sae25--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="490,192.1992,500,182.1992,661,182.1992,661,235.1758,651,245.1758,490,245.1758,490,192.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="651" x2="661" y1="192.1992" y2="182.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="490" x2="651" y1="192.1992" y2="192.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="651" x2="651" y1="192.1992" y2="245.1758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="544.5" y="215.7344">SAE 2.5</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="505" y="232.2227">Gestion d'un projet</text><!--MD5=[e2427ea3629fd7553ffb97d48df72db2]
+entity sae26--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="1076,192.1992,1086,182.1992,1225,182.1992,1225,235.1758,1215,245.1758,1076,245.1758,1076,192.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1215" x2="1225" y1="192.1992" y2="182.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1076" x2="1215" y1="192.1992" y2="192.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1215" x2="1215" y1="192.1992" y2="245.1758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="1119.5" y="215.7344">SAE 2.6</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="1091" y="232.2227">Travail d'équipe</text><!--MD5=[9f04f3c03559d4ca976dba5df35765d0]
+entity p21--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="1288,192.1992,1298,182.1992,1387,182.1992,1387,235.1758,1377,245.1758,1288,245.1758,1288,192.1992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1377" x2="1387" y1="192.1992" y2="182.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1288" x2="1377" y1="192.1992" y2="192.1992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1377" x2="1377" y1="192.1992" y2="245.1758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="1317.5" y="215.7344">P2.1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1303" y="232.2227">Portfolio</text><!--MD5=[cbf2a705c8c36a956106bd646f097c75]
+entity r--><rect fill="#FFFFE0" filter="url(#f1mu517wpxayjy)" height="36.4883" rx="35" ry="35" style="stroke:#000000;stroke-width:1.5;" width="90" x="1823.5" y="44.6992"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="1833.5" y="68.2344">Ressource</text><!--MD5=[d8322213e5f4465576b8bf70cd9bce59]
+entity s--><polygon fill="#87CEEB" filter="url(#f1mu517wpxayjy)" points="1835.5,200.6992,1845.5,190.6992,1901.5,190.6992,1901.5,227.1875,1891.5,237.1875,1835.5,237.1875,1835.5,200.6992" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1891.5" x2="1901.5" y1="200.6992" y2="190.6992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1835.5" x2="1891.5" y1="200.6992" y2="200.6992"/><line style="stroke:#000000;stroke-width:1.5;" x1="1891.5" x2="1891.5" y1="200.6992" y2="237.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="1850.5" y="224.2344">SAÉ</text><!--MD5=[c930d2ca2c0fffa1a3b62bcf0c64cf5d]
+reverse link sae25 to sae21--><path d="M530.72,248.5692 C498.15,273.2092 454.42,306.2992 422.91,330.1292 " fill="none" id="sae25-backto-sae21" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="535.04,245.3092,525.4489,247.5476,531.052,248.3252,530.2745,253.9284,535.04,245.3092" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[16e31868b5e04d9d15da251d1a8ec32d]
+reverse link sae25 to sae24--><path d="M641.89,247.6692 C691.69,272.3992 759.36,306.0092 807.95,330.1292 " fill="none" id="sae25-backto-sae24" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#000000" points="637.13,245.3092,643.4104,252.8959,641.6078,247.5339,646.9698,245.7313,637.13,245.3092" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[684f5c2ca5a93cc1e59eadd6136cb303]
+link r21 to sae21--><path d="M50.66,89.3292 C46.2,129.0992 43.81,206.0092 82.5,253.1992 C134.8,316.9992 227.96,342.9492 296.63,353.4892 " fill="none" id="r21-to-sae21" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="301.95,354.2892,293.6295,349.0196,297.0034,353.5601,292.4629,356.9341,301.95,354.2892" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="83.5" y="218.7676">x</text><!--MD5=[bf4ba5c069205966a621b7d7dda86d4a]
+link r21 to sae22--><path d="M77.36,89.3092 C99.24,113.8192 132.39,150.9592 156.61,178.0892 " fill="none" id="r21-to-sae22" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="160.11,182.0192,157.1003,172.6415,156.7802,178.2893,151.1324,177.9692,160.11,182.0192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="126.5" y="140.7676">1/2</text><!--MD5=[62258ebd19aaf63e4c09cf89828db0a2]
+link r22 to sae21--><path d="M336.45,97.3092 C342.12,135.2392 351.88,198.7492 361.5,253.1992 C365.76,277.2992 371.04,304.3292 375.24,325.2592 " fill="none" id="r22-to-sae21" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="376.23,330.1692,378.3765,320.5571,375.2439,325.2674,370.5336,322.1348,376.23,330.1692" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="362.5" y="218.7676">2/4</text><!--MD5=[52cd3e6f4b70230ff72034467fb87580]
+link r22 to sae22--><path d="M284.91,97.3792 C273.49,106.5092 261.63,116.7692 251.5,127.1992 C236.62,142.5092 222.17,161.3492 210.78,177.4492 " fill="none" id="r22-to-sae22" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="207.65,181.9092,216.0893,176.832,210.5183,177.8137,209.5365,172.2427,207.65,181.9092" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="252.5" y="140.7676">x</text><!--MD5=[1b10df8cc9f3c934c6be45580daf9333]
+link r22 to sae25--><path d="M380.58,93.6692 C421.22,118.4892 478.89,153.7092 520.96,179.3892 " fill="none" id="r22-to-sae25" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="525.24,182.0092,519.6441,173.9046,520.9729,179.4031,515.4743,180.7319,525.24,182.0092" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="462.5" y="140.7676">x</text><!--MD5=[d319baa0347b6da309b6be57c3670f98]
+link r23 to sae21--><path d="M464.86,89.2192 C460.6,100.7692 455.64,114.6092 451.5,127.1992 C428.65,196.7492 405.14,279.0692 392.32,325.0392 " fill="none" id="r23-to-sae21" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="390.96,329.9192,397.2252,322.32,392.2997,325.102,389.5177,320.1765,390.96,329.9192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="437.5" y="218.7676">2/4</text><!--MD5=[6b371f4bc01400de76787c840372d561]
+link r23 to sae22--><path d="M425.16,89.3092 C377.01,114.3092 303.54,152.4592 251.04,179.7092 " fill="none" id="r23-to-sae22" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="246.35,182.1492,256.1814,181.5638,250.7903,179.8506,252.5036,174.4594,246.35,182.1492" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="349.5" y="140.7676">x</text><!--MD5=[18e7594abfa91e05f98ffa604ef0b3dc]
+link r23 to sae25--><path d="M491.86,89.3092 C508.41,113.7192 533.44,150.6492 551.81,177.7592 " fill="none" id="r23-to-sae25" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="554.7,182.0192,552.9589,172.3255,551.8935,177.8811,546.3379,176.8158,554.7,182.0192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="529.5" y="140.7676">x</text><!--MD5=[61012c57747cf428ce0d0b0079047a99]
+link r24 to sae23--><path d="M1586.21,97.5092 C1574.04,118.8392 1558.21,146.5892 1545.14,169.5092 " fill="none" id="r24-to-sae23" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1542.56,174.0292,1550.4879,168.1855,1545.033,169.6836,1543.5349,164.2287,1542.56,174.0292" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="1569.5" y="140.7676">2/0</text><!--MD5=[dee2372ba94147db169dfd7a70e4ca66]
+link r25 to sae23--><path d="M1494.52,97.2892 C1496.8,106.9392 1499.27,117.4792 1501.5,127.1992 C1504.62,140.7992 1507.94,155.6292 1510.92,169.0592 " fill="none" id="r25-to-sae23" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1512,173.9392,1513.9524,164.2858,1510.9153,169.0583,1506.1429,166.0213,1512,173.9392" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="1506.5" y="140.7676">2/2</text><!--MD5=[f82541fcf038005789d2ec5b3e3c9fe4]
+link r26 to sae24--><path d="M775.43,248.4492 C788.49,264.1992 804.26,283.1792 818.5,300.1992 C825.47,308.5292 833,317.4892 840.08,325.8892 " fill="none" id="r26-to-sae24" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="843.51,329.9592,840.7866,320.4944,840.295,326.1299,834.6596,325.6383,843.51,329.9592" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="819.5" y="296.7676">2/2</text><!--MD5=[8464c600142e5c5d80d218df654e692b]
+link r27 to sae22--><path d="M611.44,89.3192 C596.1,107.8692 572.81,131.7892 546.5,144.1992 C443.28,192.8692 402.46,147.5392 291.5,174.1992 C283.98,176.0092 276.26,178.1892 268.59,180.5992 " fill="none" id="r27-to-sae22" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="263.82,182.1192,273.6113,183.1827,268.5816,180.5938,271.1706,175.5641,263.82,182.1192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="574.5" y="140.7676">0/3</text><!--MD5=[70bc5e8a30313400feb0a48bd59d409a]
+link r27 to sae25--><path d="M627.1,89.2692 C624.47,105.3692 620.14,126.3992 613.5,144.1992 C609.3,155.4592 603.47,167.1092 597.63,177.5392 " fill="none" id="r27-to-sae25" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="595.14,181.9292,603.0679,176.0855,597.613,177.5836,596.1149,172.1287,595.14,181.9292" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="619.5" y="140.7676">x</text><!--MD5=[e627a168a9c74d827abc3b69d9df0bb7]
+link r28 to sae24--><path d="M1725.72,97.4992 C1708.57,141.2392 1672.32,216.2092 1614.5,253.1992 C1504.99,323.2692 1115.69,349.3592 947.66,357.4992 " fill="none" id="r28-to-sae24" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="942.26,357.7592,951.4435,361.3179,947.2541,357.5166,951.0553,353.3273,942.26,357.7592" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="1689.5" y="218.7676">2/4</text><!--MD5=[62f975f20cd3b25313cbc9ec6d94d000]
+link r28 to sae26--><path d="M1692.44,97.2892 C1667.06,114.3692 1634.01,133.6992 1601.5,144.1992 C1460.94,189.5992 1415.26,144.7892 1270.5,174.1992 C1257.23,176.8992 1243.36,180.5392 1229.96,184.5092 " fill="none" id="r28-to-sae26" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1225.04,185.9892,1234.8081,187.2478,1229.8311,184.559,1232.5198,179.582,1225.04,185.9892" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1642.5" y="140.7676">x</text><!--MD5=[256f04a39a5a529eef1650925813da82]
+link r29 to sae22--><path d="M185.36,97.2892 C184.59,106.9292 183.88,117.4792 183.5,127.1992 C182.86,143.4792 183.5,161.4892 184.44,176.7692 " fill="none" id="r29-to-sae22" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="184.77,181.8392,188.1712,172.5963,184.4421,176.85,180.1885,173.1209,184.77,181.8392" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="184.5" y="140.7676">0/3</text><!--MD5=[dbd9638eacc9c7b320ef53baf43fc082]
+link r210 to sae24--><path d="M869.5,97.4792 C869.5,154.0092 869.5,267.2292 869.5,324.9992 " fill="none" id="r210-to-sae24" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="869.5,330.0792,873.5,321.0792,869.5,325.0792,865.5,321.0792,869.5,330.0792" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="870.5" y="218.7676">2/0</text><!--MD5=[b68aac6080cdd97157c541868a4e81e5]
+link r210 to sae25--><path d="M823.24,87.1492 C774.01,112.0992 695.73,151.7692 640.36,179.8292 " fill="none" id="r210-to-sae25" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="635.74,182.1692,645.575,181.6466,640.1949,179.8989,641.9426,174.5188,635.74,182.1692" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="741.5" y="140.7676">2/10</text><!--MD5=[9f8367a73adfe97e0382859c491c5a90]
+link r210 to sae26--><path d="M915.6,88.2192 C921.29,91.2492 927.03,94.2992 932.5,97.1992 C984.99,125.0592 1044.61,156.6392 1088.22,179.7292 " fill="none" id="r210-to-sae26" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1092.65,182.0792,1086.5559,174.3421,1088.2276,179.7464,1082.8234,181.418,1092.65,182.0792" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1017.5" y="140.7676">x</text><!--MD5=[dc5d267b9421c66057a86349b4f146da]
+link r211 to sae26--><path d="M1009.72,89.3092 C1037.8,113.9192 1080.4,151.2592 1111.39,178.4192 " fill="none" id="r211-to-sae26" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1115.49,182.0192,1111.3676,173.0746,1111.7333,178.7196,1106.0883,179.0853,1115.49,182.0192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1072.5" y="140.7676">x</text><!--MD5=[669b279769b3343151a2b9cd1db3d69c]
+link r212 to sae23--><path d="M1135.72,90.4992 C1141.25,93.0592 1146.92,95.3792 1152.5,97.1992 C1245.89,127.7092 1278.51,95.4992 1371.5,127.1992 C1376.04,128.7492 1413.71,150.3692 1450.04,171.4792 " fill="none" id="r212-to-sae23" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1454.46,174.0492,1448.6982,166.0616,1450.1401,171.5316,1444.6701,172.9735,1454.46,174.0492" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="1401.5" y="140.7676">0/2</text><!--MD5=[869e1d42071ce8f14248c83ffe66fdb9]
+link r212 to sae24--><path d="M1045.37,87.9792 C1021.66,101.3592 995.66,117.2292 986.5,127.1992 C971.92,143.0592 914.5,264.0592 885.89,325.3492 " fill="none" id="r212-to-sae24" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="883.71,330.0192,891.125,323.5371,885.8135,325.4832,883.8674,320.1716,883.71,330.0192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="960.5" y="218.7676">0/2</text><!--MD5=[c6f4fbda1985964aedee1887c46c7a2d]
+link r212 to sae25--><path d="M1045.41,89.5392 C1039.49,92.3692 1033.43,95.0192 1027.5,97.1992 C878.45,152.0992 830.83,129.1692 678.5,174.1992 C672.08,176.0992 665.49,178.1992 658.89,180.4092 " fill="none" id="r212-to-sae25" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="653.85,182.1192,663.6573,183.0235,658.5862,180.5166,661.0931,175.4456,653.85,182.1192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="923.5" y="140.7676">x</text><!--MD5=[1d252024c4c32dc9f47649eb72960e57]
+link r212 to sae26--><path d="M1103.82,97.4092 C1109.54,111.8392 1116.31,128.8592 1122.5,144.1992 C1126.83,154.9492 1131.59,166.6192 1135.93,177.2392 " fill="none" id="r212-to-sae26" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1137.89,182.0392,1138.1987,172.1952,1136.0035,177.4088,1130.79,175.2136,1137.89,182.0392" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1123.5" y="140.7676">x</text><!--MD5=[79f7af7105e2c5d44bcea277ab83dbb0]
+link r213 to sae23--><path d="M1273.37,89.3292 C1280.04,92.2392 1286.86,94.9492 1293.5,97.1992 C1355.01,118.0292 1379.53,96.0392 1436.5,127.1992 C1455.85,137.7892 1473.58,154.2692 1487.72,169.9492 " fill="none" id="r213-to-sae23" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1491.23,173.9092,1488.2582,164.5194,1487.9153,170.1659,1482.2688,169.823,1491.23,173.9092" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="1462.5" y="140.7676">0/2</text><!--MD5=[ce07bbe5ab6f16ba826bc0b9aeecc129]
+link r213 to sae25--><path d="M1203.22,89.3392 C1186.68,108.1592 1161.52,132.4192 1133.5,144.1992 C1040.08,183.4492 777.57,152.8992 678.5,174.1992 C670.62,175.8892 662.53,178.0792 654.53,180.5392 " fill="none" id="r213-to-sae25" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="649.55,182.1092,659.3353,183.226,654.3199,180.6097,656.9361,175.5942,649.55,182.1092" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1163.5" y="140.7676">x</text><!--MD5=[d22b3a43dcfc1a4d16844d022ea92baa]
+link r213 to sae26--><path d="M1210.95,89.3092 C1199.04,113.6192 1181.05,150.3492 1167.78,177.4192 " fill="none" id="r213-to-sae26" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1165.53,182.0192,1173.0844,175.7001,1167.7317,177.5301,1165.9017,172.1774,1165.53,182.0192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="1192.5" y="140.7676">2/0</text><!--MD5=[e98c532e9bc9bf833260b11511d3e209]
+link r214 to sae26--><path d="M1311.24,87.3092 C1279.7,111.9092 1229.98,150.6992 1194.19,178.6192 " fill="none" id="r214-to-sae26" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1189.89,181.9692,1199.4481,179.594,1193.8345,178.8965,1194.5319,173.2829,1189.89,181.9692" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="8" x="1258.5" y="140.7676">x</text><!--MD5=[66ef1d3bb8cdd9fbc37320bc99f072ad]
+link r214 to p21--><path d="M1338.03,89.2892 C1336.63,100.8492 1335.19,114.6892 1334.5,127.1992 C1333.61,143.4592 1334.03,161.4692 1334.8,176.7492 " fill="none" id="r214-to-p21" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1335.08,181.8192,1338.5848,172.6151,1334.8082,176.8266,1330.5967,173.05,1335.08,181.8192" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="1335.5" y="140.7676">0/10</text><!--MD5=[83f07c80460ebf22ea7152e1bc3b1282]
+link r to s--><path d="M1868.5,80.7892 C1868.5,106.3692 1868.5,154.8592 1868.5,185.3892 " fill="none" id="r-to-s" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1868.5,190.4992,1872.5,181.4992,1868.5,185.4992,1864.5,181.4992,1868.5,190.4992" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="1869.5" y="140.7676">TD/TP</text><!--MD5=[a323e1c2fa52f13fbcf2d9a6ba73c771]
+@startuml buts2
+
+!include config.plantuml
+'!include competences.plantuml
+
+'!include sae.plantuml
+
+'- - - - - - - - - - - Ressources
+storage "R2.01\nDev. objets" as r21
+storage "R2.02\nDev. d'apps\navec IHM" as r22
+storage "R2.03\nQualitéde dev." as r23
+storage "R2.04\nRéseau &\nbas niveau" as r24
+storage "R2.05\nServices\nréseau" as r25
+storage "R2.06\nExploitation\nBD" as r26
+storage "R2.07\nGraphes" as r27
+storage "R2.08\nStats\ndescriptives" as r28
+storage "R2.09\nMéthodes\nnumériques" as r29
+storage "R2.10\nGestion\nproj. orga." as r210
+storage "R2.11\nDroit" as r211
+storage "R2.12\nAnglais\nentreprise" as r212
+storage "R2.13\nComm. prof." as r213
+storage "R2.14\nPPP" as r214
+
+'- - - - - - - - - - - SAÉs
+node "SAE 2.1\nDév. d'application" as sae21 
+node "SAE 2.2\nExploration algo" as sae22 
+node "SAE 2.3\nInstallation \nServices réseaux" as sae23
+node "SAE 2.4\nExploitation BD" as sae24 
+node "SAE 2.5\nGestion d'un projet" as sae25 
+node "SAE 2.6\nTravail d'équipe" as sae26 
+
+node "P2.1\nPortfolio" as p21
+
+'- - - - - - - - - - - Chronologie des SAÉ
+
+sae25 <.. sae21
+sae25 <.. sae24
+
+'- - - - - - - - - - - Graphe
+title Info - S2 v.0.1
+
+
+
+r21 - -> sae21 : x
+r21 - -> sae22 : 1/2
+r22 - -> sae21 : 2/4
+r22 - -> sae22 : x
+r22 - -> sae25 : x
+r23 - -> sae21 : 2/4
+r23 - -> sae22 : x
+r23 - -> sae25 : x
+r24 - -> sae23 : 2/0
+r25 - -> sae23 : 2/2
+r26 - -> sae24 : 2/2
+r27 - -> sae22 : 0/3
+r27 - -> sae25 : x
+r28 - -> sae24 : 2/4
+r28 - -> sae26 : x
+r29 - -> sae22 : 0/3
+r210 - -> sae24 : 2/0
+r210 - -> sae25 : 2/10
+r210 - -> sae26 : x
+r211 - -> sae26 : x
+r212 - -> sae23 : 0/2
+r212 - -> sae24 : 0/2
+r212 - -> sae25 : x
+r212 - -> sae26 : x
+r213 - -> sae23 : 0/2
+r213 - -> sae25 : x
+r213 - -> sae26 : 2/0
+r214 - -> sae26 : x
+r214 - -> p21 : 0/10
+
+
+'- - - Legend- - -
+storage Ressource as r
+node SAÉ as s
+r - -> s : TD/TP
+
+' Astuce cachée pour mettre la 14 à gauche de la 15
+'sae23 -[hidden]> r
+@enduml
+
+@startuml buts2
+
+hide circle
+hide empty members
+hide methods	
+
+
+skinparam defaultTextAlignment center
+
+skinparam storage {
+  BackgroundColor Lightyellow
+}
+
+skinparam node {
+  BackgroundColor Skyblue
+}
+
+skinparam rectangle {
+  BackgroundColor Lightgreen
+  BorderColor Black
+}
+
+skinparam arrow {
+    Color<<ac>> Black
+}
+
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName TrebuchetMS
+}
+skinparam arrow {
+    MessageAlign center
+}
+
+
+
+
+
+
+
+
+storage "R2.01\nDev. objets" as r21
+storage "R2.02\nDev. d'apps\navec IHM" as r22
+storage "R2.03\nQualitéde dev." as r23
+storage "R2.04\nRéseau &\nbas niveau" as r24
+storage "R2.05\nServices\nréseau" as r25
+storage "R2.06\nExploitation\nBD" as r26
+storage "R2.07\nGraphes" as r27
+storage "R2.08\nStats\ndescriptives" as r28
+storage "R2.09\nMéthodes\nnumériques" as r29
+storage "R2.10\nGestion\nproj. orga." as r210
+storage "R2.11\nDroit" as r211
+storage "R2.12\nAnglais\nentreprise" as r212
+storage "R2.13\nComm. prof." as r213
+storage "R2.14\nPPP" as r214
+
+node "SAE 2.1\nDév. d'application" as sae21 
+node "SAE 2.2\nExploration algo" as sae22 
+node "SAE 2.3\nInstallation \nServices réseaux" as sae23
+node "SAE 2.4\nExploitation BD" as sae24 
+node "SAE 2.5\nGestion d'un projet" as sae25 
+node "SAE 2.6\nTravail d'équipe" as sae26 
+
+node "P2.1\nPortfolio" as p21
+
+
+sae25 <.. sae21
+sae25 <.. sae24
+
+title Info - S2 v.0.1
+
+
+
+r21 - -> sae21 : x
+r21 - -> sae22 : 1/2
+r22 - -> sae21 : 2/4
+r22 - -> sae22 : x
+r22 - -> sae25 : x
+r23 - -> sae21 : 2/4
+r23 - -> sae22 : x
+r23 - -> sae25 : x
+r24 - -> sae23 : 2/0
+r25 - -> sae23 : 2/2
+r26 - -> sae24 : 2/2
+r27 - -> sae22 : 0/3
+r27 - -> sae25 : x
+r28 - -> sae24 : 2/4
+r28 - -> sae26 : x
+r29 - -> sae22 : 0/3
+r210 - -> sae24 : 2/0
+r210 - -> sae25 : 2/10
+r210 - -> sae26 : x
+r211 - -> sae26 : x
+r212 - -> sae23 : 0/2
+r212 - -> sae24 : 0/2
+r212 - -> sae25 : x
+r212 - -> sae26 : x
+r213 - -> sae23 : 0/2
+r213 - -> sae25 : x
+r213 - -> sae26 : 2/0
+r214 - -> sae26 : x
+r214 - -> p21 : 0/10
+
+
+storage Ressource as r
+node SAÉ as s
+r - -> s : TD/TP
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 14:40:07 CEST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>

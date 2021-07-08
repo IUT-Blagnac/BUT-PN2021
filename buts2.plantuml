@@ -1,0 +1,82 @@
+@startuml buts2
+
+!include config.plantuml
+'!include competences.plantuml
+
+'!include sae.plantuml
+
+'----------- Ressources
+storage "R2.01\nDev. objets" as r21
+storage "R2.02\nDev. d'apps\navec IHM" as r22
+storage "R2.03\nQualitéde dev." as r23
+storage "R2.04\nRéseau &\nbas niveau" as r24
+storage "R2.05\nServices\nréseau" as r25
+storage "R2.06\nExploitation\nBD" as r26
+storage "R2.07\nGraphes" as r27
+storage "R2.08\nStats\ndescriptives" as r28
+storage "R2.09\nMéthodes\nnumériques" as r29
+storage "R2.10\nGestion\nproj. orga." as r210
+storage "R2.11\nDroit" as r211
+storage "R2.12\nAnglais\nentreprise" as r212
+storage "R2.13\nComm. prof." as r213
+storage "R2.14\nPPP" as r214
+
+'----------- SAÉs
+node "SAE 2.1\nDév. d'application" as sae21 
+node "SAE 2.2\nExploration algo" as sae22 
+node "SAE 2.3\nInstallation \nServices réseaux" as sae23
+node "SAE 2.4\nExploitation BD" as sae24 
+node "SAE 2.5\nGestion d'un projet" as sae25 
+node "SAE 2.6\nTravail d'équipe" as sae26 
+
+node "P2.1\nPortfolio" as p21
+
+'----------- Chronologie des SAÉ
+
+sae25 <.. sae21
+sae25 <.. sae24
+
+'----------- Graphe
+title Info - S2 v.0.1
+
+
+
+r21 --> sae21 : x
+r21 --> sae22 : 1/2
+r22 --> sae21 : 2/4
+r22 --> sae22 : x
+r22 --> sae25 : x
+r23 --> sae21 : 2/4
+r23 --> sae22 : x
+r23 --> sae25 : x
+r24 --> sae23 : 2/0
+r25 --> sae23 : 2/2
+r26 --> sae24 : 2/2
+r27 --> sae22 : 0/3
+r27 --> sae25 : x
+r28 --> sae24 : 2/4
+r28 --> sae26 : x
+r29 --> sae22 : 0/3
+r210 --> sae24 : 2/0
+r210 --> sae25 : 2/10
+r210 --> sae26 : x
+r211 --> sae26 : x
+r212 --> sae23 : 0/2
+r212 --> sae24 : 0/2
+r212 --> sae25 : x
+r212 --> sae26 : x
+r213 --> sae23 : 0/2
+r213 --> sae25 : x
+r213 --> sae26 : 2/0
+r214 --> sae26 : x
+r214 --> p21 : 0/10
+
+
+'--- Legend---
+storage Ressource as r
+node SAÉ as s
+r --> s : TD/TP
+
+' Astuce cachée pour mettre la 14 à gauche de la 15
+'sae23 -[hidden]> r
+@enduml

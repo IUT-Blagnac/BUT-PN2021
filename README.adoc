@@ -12,6 +12,9 @@ image::buts1.svg[]
 
 == Plannification S2
 
+.Liens Ressources/SAÉ pour le S2 (source link:{repo}/buts2.plantuml[buts2.plantuml])
+image::buts2.svg[]
+
 .Exemple de lien entre SAÉ (ici les SAÉs correspondant à l'actuel Ptut S2 -- source link:{repo}/plannif-sae-s2.plantuml[plannif-sae-s2.plantuml])
 image::sae-s2-exemple-plannif.svg[]
 
