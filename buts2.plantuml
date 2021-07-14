@@ -35,6 +35,7 @@ node "P2.1\nPortfolio" as p21
 
 sae25 <.. sae21
 sae25 <.. sae24
+sae24 <.. sae21
 
 '----------- Graphe
 title Info - S2 v.0.1
