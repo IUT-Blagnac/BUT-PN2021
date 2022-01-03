@@ -1,21 +1,59 @@
-@startgantt
+@startgantt planif-sae-s2
 
-title SAE S1.05
+skinparam {
+    FontName Impact
+}
+
+title SAE S2.01/04/05
 
 printscale weekly
 
-Project starts the 20th of September 2021
+Project starts the 14th of March 2022
 
+-- SAE S2.01 --
 
--- SAE S1.05 --
+[Dev. App] starts the 9th of May 2022
+[Dev. App] lasts 3 weeks
+[Doc. Eval.] lasts 1 week
 
-[Organisation] lasts 2 weeks
-then [Recueil] lasts 1 week
-then [Synthèse] lasts 2 weeks
-then [Rédaction] lasts 2 weeks
+[Dev. App] -> [Doc. Eval.] 
 
-'[Présentation] happens at [Rédaction]'s end
-[Présentation] happens the 10 November 2021
+-- SAE S2.02 --
+
+-- SAE S2.03 --
+
+-- SAE S2.04 --
+
+[Création BD] lasts 3 weeks
+[Création BD] starts the 4h of April 2022
+
+[Visualisation] starts the 23th of May 2022
+[Visualisation] lasts 2 weeks
+
+[Création BD] -> [Visualisation]
+
+-- SAE S2.05 --
+
+[Liv. CDC] lasts 3 weeks
+
+[Liv. Doc Tec.] starts the 18th of April 2022 
+[Liv. Doc Tec.] lasts 1 week
+
+[Liv. Doc Finale] lasts 1 week
+[Liv. Doc Finale] starts the 30th of May 2022
+
+[Soutenances/Anglais] lasts 1 week
+[Soutenances/Anglais] starts the 6th of June 2022
+
+[Liv. CDC] -> [Liv. Doc Tec.] 
+[Liv. Doc Tec.] -> [Liv. Doc Finale]
+[Liv. Doc Finale] -> [Soutenances/Anglais]
+
+'-- Liens inter - SAEs --
+
+[Liv. CDC] -> [Création BD] 
+[Création BD] -> [Dev. App]
+
 
 @endgantt
 
