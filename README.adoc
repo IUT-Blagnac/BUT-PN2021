@@ -26,7 +26,7 @@ Le répertoire contient des descriptions des :
 - Ressources (link:{repo}/ressources.plantuml[ressources.plantuml])
 - SAÉ (link:{repo}/sae.plantuml[sae.plantuml])
 
-Le fichier link:{repo}/config.plantuml[config.plantuml] contient les définitions communes (couleurs, styles etc.).
+Le fichier link:{repo}/config.cfg[config.cfg] contient les définitions communes (couleurs, styles etc.).
 
 Le fichier link:{repo}/butgraph.plantuml[butgraph.plantuml] est un exemple complet :
 
@@ -34,7 +34,7 @@ Le fichier link:{repo}/butgraph.plantuml[butgraph.plantuml] est un exemple compl
 ----
 @startuml butgraph
 
-!include config.plantuml
+!include config.cfg
 !include competences.plantuml
 !include ressources.plantuml
 !include sae.plantuml

@@ -17,7 +17,7 @@ link AC11 to AC13--><!--MD5=[0e88beb96b2cc3db58efacb5be739b12]
 link AC13 to AC14--><!--MD5=[cc48027c6ec58726a7997fc5e3bd51ff]
 @startuml butgraph
 
-!include config.plantuml
+!include config.cfg
 package Competence1 {
 rectangle "AC11 : Implementer des conceptions simples" as AC11 
 rectangle "AC12 : Elaborer des conceptions simples" as AC12

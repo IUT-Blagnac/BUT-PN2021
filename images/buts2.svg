@@ -57,7 +57,7 @@ link r214 to p21--><path d="M1339.84,89.3092 C1340.17,113.4192 1340.65,149.7392 
 link r to s--><path d="M1786.5,80.7892 C1786.5,106.3692 1786.5,154.8592 1786.5,185.3892 " fill="none" id="r-to-s" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1786.5,190.4992,1790.5,181.4992,1786.5,185.4992,1782.5,181.4992,1786.5,190.4992" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="1787.5" y="140.7676">TD/TP</text><!--MD5=[08a3ad32c1697f52d51f8cba2f041276]
 @startuml buts2
 
-!include config.plantuml
+!include config.cfg
 '!include competences.plantuml
 
 '!include sae.plantuml

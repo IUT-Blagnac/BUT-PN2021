@@ -21,7 +21,7 @@ link etu to pf--><path codeLine="26" d="M214,28.55 C192.16,36.02 160.56,47.73 13
 ' JMB 2014
 '- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-!include config.plantuml
+!include config.cfg
 
 class r as "Ressource"
 class s as "Savoir De\nRéférences"

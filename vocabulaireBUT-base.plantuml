@@ -5,7 +5,7 @@
 ' JMB 2014
 '-----------------------------------
 
-!include config.plantuml
+!include config.cfg
 
 
 class t as "Type de \nparcours"

@@ -1,3 +1,4 @@
+@startuml competences
 '----------- Compétences
 
 package Competence1 {
@@ -17,3 +18,4 @@ package Competence5 {
 rectangle "AC51 : Apprehender les besoins du client et de l'utilisateur" as AC51 
 rectangle "AC52 : Mettre en place des outils de gestion de projet" as AC52
 }
+@enduml

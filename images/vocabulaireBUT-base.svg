@@ -32,7 +32,7 @@ link Alternance to t--><path codeLine="38" d="M107.1,31.04 C101.91,41.66 93.76,5
 ' JMB 2014
 '- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-!include config.plantuml
+!include config.cfg
 
 
 class t as "Type de \nparcours"

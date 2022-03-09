@@ -1,3 +1,4 @@
+@startuml ressources
 '----------- Ressources
 storage "R1.01\nInitiation au dev." as r11
 storage "R1.02\nDev. interfaces web" as r12
@@ -10,3 +11,4 @@ storage "R1.08\nGestion proj. orga. " as r18
 storage "R1.09\nÉconomie" as r19
 storage "R1.10\nAnglais technique" as r110
 storage "R1.11\nBases de la comm " as r111
+@enduml

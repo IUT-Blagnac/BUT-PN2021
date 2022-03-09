@@ -1,6 +1,6 @@
 @startuml butgraph
 
-!include config.plantuml
+!include config.cfg
 !include competences.plantuml
 !include ressources.plantuml
 !include sae.plantuml

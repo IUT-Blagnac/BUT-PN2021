@@ -37,7 +37,7 @@ link AC21 to AC22--><!--MD5=[baed59f6ecbaed07bf9ddeafed1a5ab6]
 link AC21 to AC23--><!--MD5=[ede7fb2f3600753615e0c0394edb991a]
 @startuml butgraph
 
-!include config.plantuml
+!include config.cfg
 !include competences.plantuml
 !include ressources.plantuml
 !include sae.plantuml

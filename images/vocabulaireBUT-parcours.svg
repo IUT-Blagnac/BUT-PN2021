@@ -21,7 +21,7 @@ reverse link p to d--><path codeLine="25" d="M493.07,215.24 C544.67,230.07 629.4
 ' JMB 2014
 '- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-!include config.plantuml
+!include config.cfg
 
 
 class t as "Type de \nparcours"

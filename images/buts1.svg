@@ -41,7 +41,7 @@ link r111 to sae16--><path d="M725.82,81.3492 C745.86,96.8592 773.15,115.9492 79
 link r to s--><path d="M1510.95,72.8192 C1510.95,95.1792 1510.95,134.6092 1510.95,161.1892 " fill="none" id="r-to-s" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1510.95,166.3292,1514.95,157.3292,1510.95,161.3292,1506.95,157.3292,1510.95,166.3292" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="40" x="1511.95" y="124.7676">TD/TP</text><!--MD5=[cbe00776cf09b027f9e1b0e7a349d4db]
 @startuml buts1
 
-!include config.plantuml
+!include config.cfg
 '!include competences.plantuml
 
 '!include sae.plantuml

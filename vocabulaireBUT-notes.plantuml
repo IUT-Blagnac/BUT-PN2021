@@ -5,7 +5,7 @@
 ' JMB 2014
 '-----------------------------------
 
-!include config.plantuml
+!include config.cfg
 
 class r as "Ressource"
 class s as "Savoir De\nRéférences"
