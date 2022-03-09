@@ -1,0 +1,100 @@
+:num-sae: 2.01
+:mytitle: Développement d’une application
+:year: 2021-2022
+:heures-sae: 12
+= SAÉ {num-sae} : {mytitle}
+:icons: font
+include::definitions.adoc[]
+
+== Programme national
+
+:mywidth: 32
+image:saes/{num-sae}/descriptif.png["descriptif",width={mywidth}%,pdfwidth={mywidth}%]
+image:saes/{num-sae}/cursus.png["cursus",width={mywidth}%,pdfwidth={mywidth}%]
+image:saes/{num-sae}/competences.png["competences",width={mywidth}%,pdfwidth={mywidth}%]
+
+== Déclinaison {year} image:dpt-info.png["logo iut",width=10%,pdfwidth=10%]
+
+=== Présentation de la SAÉ {num-sae} (groupée avec la 2.05)
+
+La banque DailyBank souhaite développer une application JAVA-Oracle de gestion des comptes clients pour remplacer plusieurs outils obsolètes. 
+Ce développement s’inscrit dans le cadre de la restructuration de ses services bancaires et l’application sera déployée dans les 100 agences que compte son réseau. 
+Vous travaillerez à partir d’une application existante « Daily Bank » qu’il faudra adapter aux nouveaux besoins de la banque. 
+L’application est découpée en trois versions nommées v1, v2 et v3.
+
+
+- link:C1.adoc[Compétence 1 (Développer des applications informatiques simples)] (40%)
+
+Les ressources mises en œuvre sont les suivantes :
+
+- R2.01 Dév. Int. Web (2h TP -- maquettes écran)
+- R2.02 Dév. d'apps avec IHM (2h TD / 4H TP)
+- R2.03 Qualité de dev. (2h TD / 4H TP)
+
+
+=== Attendus
+
+Pour les différentes versions de l’applications :
+- Développer l’application testée corrigée
+- Créer la documentation Technique et la documentation utilisateur
+- Créer le cahier de TEST 
+- Générer et maintenir la javadoc
+
+Entre chaque version les documents seront commentés par un enseignant et vous devrez prendre en compte ces remarques.
+
+
+=== Contraintes
+
+- Travail en équipe de 3 à 4 étudiants
+- Dépôt sous GitHub de vos codes et de vos documentations
+- Tous les étudiants rédigent au moins un peu, tous les étudiants codent au moins une fonctionnalité
+
+=== icon:book[] Livrables
+
+[%interactive]
+- [ ] Le dépôt Git avec les codes, les versions, les documentations
+- [ ] Une présentation orale permettant d'individualiser les notes par des questions précises et individuelles
+
+== Organisation
+
+//----------------------------------------------------------------------------
+[cols="1a,1a"]
+|===
+//----------------------------------------------------------------------------
+| === icon:graduation-cap[] Qui ?
+
+- {jmb} (p)
+- {mfc} (p)
+- {mdm} (p)
+- {ap} (p)
+//- X (v)
+//- X (v)
++
+NOTE: Assistance pendant les {heures-sae}h PJT
+
+|  === icon:calendar[] Quand ?
+
+- 2 séances semaine 19 (1 TD / 1 PJT)
+- 3 séances semaine 20 (2 TD / 1 PJT)
+- 4 séances semaine 22 (2 TD / 2 PJT)
+- 3 séances semaine 23 (1 TD / 2 PJT)
+
+//----------------------------------------------------------------------------
+| === icon:map-signs[] Où ?
+
+- Salles TP (4 équipes/salle) pour les {heures-sae}h de PJT
+
+| === icon:wrench[] Quoi ?
+
+- Dev (Java swing/FX)
+- Documentation technique
+- Cahier de recette
+
+|===
+//----------------------------------------------------------------------------
+//----------------------------------------------------------------------------
+
+
+
+
+
