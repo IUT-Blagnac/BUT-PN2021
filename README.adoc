@@ -1,4 +1,4 @@
-= BUT-PPN2021
+= BUT-PN2021
 :plantuml: https://plantuml.com/[PlantUML]
 :repo: https://github.com/IUT-Blagnac/BUT-PPN2021/blob/main/
 :imagesdir: images
